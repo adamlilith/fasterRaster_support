@@ -1,7 +1,7 @@
 ### TEST fasterRaster EXAMPLE FILES
 ### source('C:/Ecology/R/fasterRaster_support/test_examples.r')
 ###
-### This script cycles through each help file and executes the code. It is useful because most help files are wrapped in an "if (grassStarted())" test, which circumvents the usual example checking done with check().
+### This script cycles through each help raw file and executes the code. It is useful because most help files are wrapped in an "if (grassStarted())" test, which circumvents the usual example checking done with check(). Only help files in './man/examples' are run.
 
 ### setup
 #########
@@ -34,12 +34,16 @@ dummy <- fast(dummy)
 
 # list files and remove those already checked
 exampleFiles_ <- omnibus::listFiles("./man/examples")
+say('Found ', length(exampleFiles), ' example files.')
 if (!is.null(startFromFile_)) {
 
 	startFromIndex_ <- which(basename(exampleFiles_) == startFromFile_)
 	if (length(startFromIndex_) > 0) exampleFiles_ <- exampleFiles_[(startFromIndex_):length(exampleFiles_)]
 
+} else {
+	startFromIndex_ <- 1
 }
+say('Starting from file ', startFromFile_, ' (file ', startFromIndex_, ').')
 
 # cycle through each file
 for (COUNT in seq_along(exampleFiles_)) {
