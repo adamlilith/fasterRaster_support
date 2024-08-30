@@ -1,0 +1,51 @@
+Type,GRASS_Function,R_Function,Definition,Returns
+standard,abs(x),abs(),return absolute value of x,same as input
+standard,acos(x),acos(),inverse cosine of x (result is in degrees),same as input
+standard,asin(x),asin(),inverse sine of x (result is in degrees),same as input
+standard,atan(x),atan(),inverse tangent of x (result is in degrees),same as input
+standard,"atan(x,y)",atan2(),inverse tangent of y/x (result is in degrees),same as input
+standard,ceil(x),ceiling(),the smallest integral value not less than x,same as input
+standard,cos(x),cos(),cosine of x (x is in degrees),same as input
+standard,double(x),,convert x to double-precision floating point,same as input
+standard,"eval([x,y,...,]z)",,"evaluate values of listed expr, pass results to z",same as input
+standard,exp(x),exp(),exponential function of x,same as input
+standard,"exp(x,y)",exp(),x to the power y,same as input
+standard,float(x),,convert x to single-precision floating point,same as input
+standard,floor(x),floor(),the largest integral value not greater than x,same as input
+if/then,if(x),if,"1 if x not zero, 0 otherwise",integer (CELL)
+if/then,"if(x,a)",if,"a if x not zero, 0 otherwise",integer (CELL)
+if/then,"if(x,a,b)",if / else,"a if x not zero, b otherwise",integer (CELL)
+if/then,"if(x,a,b,c)",if / else / else,"a if x > 0, b if x is 0, c if x < 0",integer (CELL)
+standard,int(x),trunc(),convert x to integer (truncates),same as input
+if/then,isnull(x),is.null(),"check if x is NA, 1 if TRUE, 0 if FALSE",integer (CELL)
+standard,log(x),log(),natural log of x,same as input
+standard,"log(x,b)",log(),log of x base b,same as input
+standard,"max(x,y[,z...])",max(),largest value of those listed,same as input
+standard,"median(x,y[,z...])",median(),median value of those listed,same as input
+standard,"min(x,y[,z...])",min(),smallest value of those listed,same as input
+standard,"mod(x,y)",%%,return the modulus (the remainder) of x/y,same as input
+standard,"mode(x,y[,z...])",,mode value of those listed,same as input
+standard,"nmax(x,y[,z...])","max(x, na.rm=TRUE)","largest value of those listed, excluding NULLs",same as input
+standard,"nmedian(x,y[,z...])","median(x, na.rm=TRUE)","median value of those listed, excluding NULLs",same as input
+standard,"nmin(x,y[,z...])","min(x, na.rm=TRUE)","smallest value of those listed, excluding NULLs",same as input
+standard,"nmode(x,y[,z...])",,"mode value of those listed, excluding NULLs",same as input
+if/then,not(x),!,"1 if x is zero, 0 otherwise",integer (CELL)
+standard,"pow(x,y)",^,x to the power y,same as input
+standard,"rand(a,b)",runif(),random value such that a <= x < b,same as input
+standard,round(x),round(),round x to nearest integer,same as input
+standard,"round(x,y)",round(),round x to nearest multiple of y,integer (CELL)
+standard,"round(x,y,z)",,round x to nearest y*i+z for some integer i,integer (CELL)
+standard,sin(x),sin(),sine of x (x is in degrees),same as input
+standard,sqrt(x),sqrt(),square root of x,same as input
+standard,tan(x),tan(),tangent of x (x is in degrees),same as input
+if/then,"xor(x,y)",xor(),exclusive-or (XOR) of x and y,same as input
+internal variables,row(),,current row of moving window,integer (CELL)
+internal variables,col(),,current column of moving window,integer (CELL)
+internal variables,nrows(),nrow(),number of rows in computation region,integer (CELL)
+internal variables,ncols(),ncol(),number of columns in computation region,integer (CELL)
+internal variables,x(),,current x-coordinate of moving window,float (FCELL)
+internal variables,y(),,current y-coordinate of moving window,float (FCELL)
+internal variables,ewres(),xres() [terra package],current east-west resolution,float (FCELL)
+internal variables,nsres(),yres() [terra package],current north-south resolution,float (FCELL)
+internal variables,area(),area() [terra package],area of current cell in square meters,float (FCELL)
+internal variables,null(),NULL,NA value,returns NA
