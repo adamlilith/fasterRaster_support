@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b276cb50-d3ea-11dc-ab69-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rtycar</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversity.be/resource.do?r=occ_mrac_fruitly</alternateIdentifier>
+        <alternateIdentifier>b276cb50-d3ea-11dc-ab69-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>92</alternateIdentifier>
+    <title>Royal Museum of Central Africa - True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region (ENBI wp13)</title>
+    <creator>
+    <individualName>
+<givenName>Marc</givenName>          <surName>de Meyer</surName>
+    </individualName>
+<organizationName>Royal Museum for Central Africa</organizationName><positionName>Entomologist</positionName>    <address>
+<deliveryPoint>Leuvensesteenweg 13</deliveryPoint><city>Tervuren</city><postalCode>3080</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>marc.de.meyer@africamuseum.be</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>André</givenName>          <surName>Heughebaert</surName>
+    </individualName>
+<electronicMailAddress>aheugheb@ulb.ac.be</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Ian</givenName>          <surName>White</surName>
+    </individualName>
+<organizationName>Natural History Museum, London, UK</organizationName><positionName>Entomologist</positionName>    <address>
+<country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>I.M.White@nhm.ac.uk</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2014-10-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Fruit flies (Diptera: Tephritidae) are one of the most economically important groups of insects in the Afrotropical Region. They cause millions of Euros of damage to fruits and vegetables, and are a major constraint to commercial and subsistence farming in the region. The family Tephritidae includes more than 5000 species worldwide, approximately 1400 species of which develop in fleshy fruits (Norrbom et al 1999). Nearly 250 of these species are capable of achieving pest status by feeding on plants of economic importance (White and Elson-Harris 1992). The Mediterranean fruit fly, or Medfly, Ceratitis capitata (Wiedemann), is currently the most important of these pests from an invasive species perspective. Of African origin, it has spread to several other continents where it causes millions of Euros in damage. It also threatens other horticultural areas (such as California and Florida in the USA and regions in eastern Australia) resulting in very expensive detecting and monitoring programmes in these regions. The destructive association of several species with commercially grown fruit and vegetable crops makes them the subject of intensive agricultural research. But fruit flies are also biologically diverse and form a significant part of the biota of any region. Besides the several pest species, the large majority of the true fruit flies are limited to a small number of indigenous host fruits, mainly from trees and shrubs. Most of them are associated with forested areas, and can be used as indicator species for the biodiversity of a given area. In addition, several fruit fly larvae develop in other parts of host plants such as the stems or flowerheads. Fruit flies database is part of the ENBI WP13 feasibility study (Collaborative project between the Royal Belgian Institute of Natural Sciences, the Royal Museum for Central Africa and the National Botanical Garden. The data portal for the ENBI WP13 study can be found at http://projects.bebif.be/enbi</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://projects.bebif.be/fruitfly/index.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Africa</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-19.49</westBoundingCoordinate>
+                      <eastBoundingCoordinate>54.65</eastBoundingCoordinate>
+                      <northBoundingCoordinate>38.16</northBoundingCoordinate>
+                      <southBoundingCoordinate>-36.76</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Diptera, Tephritidae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tephritidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Marc</givenName>          <surName>de Meyer</surName>
+    </individualName>
+<organizationName>Royal Museum for Central Africa</organizationName><positionName>Entomologist</positionName>    <address>
+<deliveryPoint>Leuvensesteenweg 13</deliveryPoint><city>Tervuren</city><postalCode>3080</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>marc.de.meyer@africamuseum.be</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:24Z</dateStamp>
+      <citation>de Meyer M, Heughebaert A (2014). Royal Museum of Central Africa - True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region (ENBI wp13). Belgian Biodiversity Platform. Occurrence dataset https://doi.org/10.15468/rtycar accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

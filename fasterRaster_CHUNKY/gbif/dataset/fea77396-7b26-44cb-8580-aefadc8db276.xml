@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="fea77396-7b26-44cb-8580-aefadc8db276"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/mywiem</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource?r=mnhn-pc</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource.do?r=mnhn-pc</alternateIdentifier>
+        <alternateIdentifier>fea77396-7b26-44cb-8580-aefadc8db276</alternateIdentifier>
+        <alternateIdentifier>13678</alternateIdentifier>
+    <title>The cryptogamy collection (PC) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)</title>
+    <creator>
+    <individualName>
+          <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Chagnoux</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><electronicMailAddress>gbifprovider@mnhn.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Buyck</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>Dennetière</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Line</givenName>          <surName>Legall</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Catherine</givenName>          <surName>Rausch</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Bruno</givenName>          <surName>Reviers, de</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2023-01-04
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>The herbarium of the museum, referred to by code PC, includes a large number of important collections amongst its 2 000 000 cryptogams (algae, bryophyta, fungi and lichens) specimens. These collections are constitued by a general herbarium and numerous particular collections. Among these last, Allorge, Bescherelle, Bourdot &amp;amp; Galzin, Heim, Hue, Montagne, Romagnesi, Sauvageau, Thuret &amp;amp; Bornet herbaria.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Types</keyword>
+              <keyword>Cryptogam</keyword>
+              <keyword>Taxonomy</keyword>
+              <keyword>Botany</keyword>
+              <keyword>Specimens</keyword>
+              <keyword>Collections</keyword>
+              <keywordThesaurus>No keyword thesaurus designated</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Pignal</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Correspondant</positionName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:25Z</dateStamp>
+      <citation>MNHN, Chagnoux S (2023). The cryptogamy collection (PC) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris). Version 70.289. MNHN - Museum national d&apos;Histoire naturelle. Occurrence dataset https://doi.org/10.15468/mywiem accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

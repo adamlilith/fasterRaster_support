@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f58922e2-93ed-4703-ba22-12a0674d1b54"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/tm7whu</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource?r=mnhn-ic</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource.do?r=mnhn-ic</alternateIdentifier>
+        <alternateIdentifier>f58922e2-93ed-4703-ba22-12a0674d1b54</alternateIdentifier>
+        <alternateIdentifier>14130</alternateIdentifier>
+    <title>The fishes collection (IC) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)</title>
+    <creator>
+    <individualName>
+          <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Chagnoux</surName>
+    </individualName>
+<electronicMailAddress>gbifprovider@mnhn.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Patrice</givenName>          <surName>Pruvost</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Romain</givenName>          <surName>Causse</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Zouhaira</givenName>          <surName>Gabsi</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Claude</givenName>          <surName>Ferrara</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2023-01-04
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Catalog of all fish catalogued in the collection of the Museum national d&amp;#39;histoire naturelle (MNHN) including dry specimens, otolith, tissus sample.
+			The catalog include also the french type-specimens from the Muséum d&amp;#39;histoire naturelle de Lyon, the Muséum d&amp;#39;histoire naturelle de La Rochelle, the Musée océanographique de Monaco, the Musée zoologique de Strasbourg and the Université Claude Bernard Lyon I.
+			GICIM was originally created in 1982 (J.DAGET and J.-C. HUREAU).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Types</keyword>
+              <keyword>Vertebrata</keyword>
+              <keyword>Chordata</keyword>
+              <keyword>Taxonomy</keyword>
+              <keyword>Fishes</keyword>
+              <keyword>Zoology</keyword>
+              <keyword>Specimens</keyword>
+              <keyword>Collections</keyword>
+              <keywordThesaurus>No keyword thesaurus designated</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Patrice</givenName>          <surName>Pruvost</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Correspondant</positionName>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:26Z</dateStamp>
+      <citation>MNHN, Chagnoux S (2023). The fishes collection (IC) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris). Version 57.292. MNHN - Museum national d&apos;Histoire naturelle. Occurrence dataset https://doi.org/10.15468/tm7whu accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,199 @@
+
+Dataset: University of Michigan Museum of Zoology, Division of Reptiles & Amphibians
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: P herbarium - Muséum national d’histoire naturelle, Paris - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New combinations and typifications in Vitex (Lamiaceae) from Madagascar
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Observatoire Pelagis aerial surveys 2002-2021
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Thunberga gen. nov., a new genus of huntsman spiders from Madagascar (Araneae: Sparassidae: Heteropodinae)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Museum of Central Africa - True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region (ENBI wp13)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Botany (UPS)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Botanical Database of Southern Africa (BODATSA): Botanical Collections
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Botanical Research Institute of Texas, Philecology Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A taxonomic study of Dinapsis Waterson, 1922 from Madagascar (Hymenoptera Megalyridae, Dinapsini): crested wasps of the hirtipes species-group
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Database about reference specimens for medicinal plants, in the Apocynaceae family, owned by CNARP
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The molluscs collection (IM) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Vienna, Institute for Botany - Herbarium WU
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ecology and morphology of mouse lemurs (Microcebus spp.) in a hotspot of microendemism in northeastern Madagascar, with the description of a new species
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Fishes
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Gastrodia madagascariensis (Gastrodieae, Orchidaceae): from an historical designation to a description of a new species from Madagascar
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Nouveautés taxonomiques et nomenclaturales dans le genre Pteris L. (Pteridaceae) à Madagascar
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collection Porifera - ZMB
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RBINS DaRWIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Universidad de Murcia, Dpto. Biología Vegetal (Botánica), Murcia: MUB-HEPATICAE
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: database_orthoptera
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Database_lepidoptera
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Review of the Madagascan Orphninae (Coleoptera: Scarabaeidae) with a revision of the genus Triodontus Westwood
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Belgian Institute of Natural Sciences Crustacea collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dryinidae of the Afrotropical region (Hymenoptera, Chrysidoidea)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bryophyte Herbarium (H): Herbarium Generale
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Jena, Herbarium Haussknecht - Herbarium JE
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A revision of Homalium sect. Odontolobus (Salicaceae) endemic to Madagascar
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the Malagasy genus Trichoteleia Kieffer (Hymenoptera, Platygastroidea, Platygastridae) - Darwin Core Archives
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TTU Mammals Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biologiezentrum Linz
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Digitonthophagus Balthasar, 1959: taxonomy, systematics, and morphological phylogeny of the genus revealing an African species complex (Coleoptera: Scarabaeidae: Scarabaeinae)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: KZNM-PINDIP-DIPTATEACH
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Database on reference specimens for medicinal plants of the Meliaceae family, conserved at the CNARP herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A revision of Homalium sect. Nisa (Salicaceae) endemic to Madagascar
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Towards a Revision of the Genus Vitex (Lamiaceae) in Madagascar. II: Three New Species from the Littoral Forests
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CAS Invertebrate Zoology (IZ)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: EOD – eBird Observation Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herpetology Collection NRM
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mosquito Occurrence Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection Mollusca SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KUBI Herpetology Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Coleoptera collection (EC) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dermaptera
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic revision of Stigmatomma Roger (Hymenoptera: Formicidae) in the Malagasy region
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bioversity Collecting Mission Database
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A revision of the Malagasy species of Homalium sect. Blackwellia (Salicaceae)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Database_diptera
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Specimen references on the Sapotaceae family held by the TAN Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Mammalia
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Revision of the Malagasy species of Homalium sect. Eumyriantheia Warb. (Salicaceae)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Database about reference specimens for medicinal plants, in the Sapotaceae family, owned by CNARP
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A revision of Malagasy species of Anochetus Mayr and Odontomachus Latreille (Hymenoptera: Formicidae).
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Specimen references on the Rubiaceae family held by theTAN Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Database on reference specimens for medicinal plants of the Fabaceae family, conserved at the CNARP herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Centre for Australian National Biodiversity Research (CANB) AVH data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: database_dyctio
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The ant genus Pheidole Westwood, 1839 (Hymenoptera: Formicidae) in Madagascar-taxonomic revision of the bessonii species-group
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMSA: Arthropod Collections (1900-2012)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The New York Botanical Garden Herbarium (NY)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Database on reference specimens for medicinal plants of the Euphorbiaceae family, conserved at the CNARP herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A revision of Xylopia L. (Annonaceae): the species of Madagascar and the Mascarene islands
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Database on reference specimens for medicinal plants of the Rubiaceae family, conserved at the CNARP herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A global database for the distributions of crop wild relatives
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Specimen references on the Verbenaceae family held by the TAN Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CAS Entomology (ENT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Insect, Arachnid and Myriapod Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Phanerogamic Botanical Collections (S)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: database_hemiptera
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: All herbarium specimens of grasses from Madagascar and the surrounding islands: family Poaceae, sector AFM
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Aves
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: pbzt_insect_biodiversity
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Botany (BOT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: tan-database
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: All herbarium specimens of grasses held at TAN herbarium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Research database of Madagascar grasses compiled by Maria Vorontsova
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INSDC Host Organism Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Meise Botanic Garden Herbarium (BR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Database_Coleoptera_Madagascar Biodiversity Center PBZT
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bryophyte specimens at TAN Herbarium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: tef-database
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KwaZulu-Natal Museum-Entomology-collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Botanic Gardens, Kew - Herbarium Specimens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UF Invertebrate Zoology
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: AntWeb
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tropicos Specimen Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

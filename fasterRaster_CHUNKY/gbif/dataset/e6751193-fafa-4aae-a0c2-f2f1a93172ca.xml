@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e6751193-fafa-4aae-a0c2-f2f1a93172ca"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/bpx7wi</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=tan-database</alternateIdentifier>
+        <alternateIdentifier>e6751193-fafa-4aae-a0c2-f2f1a93172ca</alternateIdentifier>
+        <alternateIdentifier>http://www.madbif.mg/ipt_madagascar/resource?r=tan-database</alternateIdentifier>
+    <title>tan-database</title>
+    <creator>
+    <individualName>
+<givenName>Voahangy</givenName>          <surName>Ramanandraisoa</surName>
+    </individualName>
+<organizationName>PBZT/Département Flore</organizationName><positionName>Database Manager</positionName>    <address>
+<deliveryPoint>Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode>    </address>
+<electronicMailAddress>prota.madagascar@moov.mg</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andry</givenName>          <surName>Rakotomanjaka</surName>
+    </individualName>
+<organizationName>REBIOMA</organizationName><positionName>Technical Manager</positionName>    <address>
+<deliveryPoint>Soavimbahoaka</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>andry@madbif.mg</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2016-06-29
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>L’Herbier de Tsimbazaza (TAN) a été établi en 1950 comme subdivision du département Flore du PBZT. C’est l’un des deux herbiers nationaux de Madagascar. Outre des espèces indigènes malgaches, le TAN abrite des collections de matériaux originaires d’autres îles de l’océan Indien, de certains pays d&amp;#39;Afrique continentale, d&amp;#39;Europe et d&amp;#39;Asie. Au cours des années 1950, 1960 et 1970, des spécimens collectés par de célèbres botanistes français (Bosser, Cours Darne, Decary, Descoings, Humbert et Morat) ont été déposés au TAN. La collaboration du TAN avec de nombreuses institutions locales (Université d’Antananarivo, ANGAP, PSFH) et étrangères (MBG, Kew, CAS, Universités de Neuchâtel et de Vienne) a permis d’accroître le nombre de ses collections. L&amp;#39;Herbier compte actuellement 80 000 spécimens environ.
+
+En 1994, le TAN avait atteint la limite de ses capacités d’accueil ; pourtant, il continuait à développer ses collections à un rythme moyen de 3 000 nouveaux spécimens par an. En raison du manque d&amp;#39;espace, les nouveaux spécimens devaient être entreposés et n’étaient donc pas accessibles aux chercheurs. La construction d’une annexe ayant été achevée en 2004, le TAN est désormais en mesure d’accueillir l’ensemble de ses matériaux. La numérisation des collections a débuté en 1992 en collaboration avec le Jardin botanique du Missouri (MBG). Environ 20 000 spécimens du TAN, appartenant à 65 familles végétales différentes, sont d&amp;#39;ores et déjà disponibles par l&amp;#39;intermédiaire de la base de données TROPICOS.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madagascar</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>42</westBoundingCoordinate>
+                      <eastBoundingCoordinate>51</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1661
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Solo</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+<organizationName>PBZT/Département Flore</organizationName><positionName>Chef de Département</positionName>    <address>
+<deliveryPoint>Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>prota.madagascar@moov.mg</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>Ramanandraisoa V, Rakotomanjaka A (2016). tan-database. Version 1.2. Parc Botanique et Zoologique de Tsimbazaza (P.B.Z.T.). Occurrence dataset https://doi.org/10.15468/bpx7wi accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,205 @@
+gbifID,license,rightsHolder,institutionCode,year,month,day,coordinateUncertaintyInMeters,species,longitude,latitude
+2397516155,CC_BY_NC_4_0,vononarbgkew,iNaturalist,2019,8,11,4,Dypsis nodifera,49.67387,-16.805377
+2397516017,CC_BY_NC_4_0,vononarbgkew,iNaturalist,2019,8,11,3,Dypsis nodifera,49.676743,-16.803122
+2397515145,CC_BY_NC_4_0,vononarbgkew,iNaturalist,2019,8,11,3,Dypsis nodifera,49.675145,-16.804425
+2268865622,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,14,NA,Dypsis betsimisarakae,49.603333,-16.669444
+2268863965,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,10,NA,Dypsis nodifera,49.816667,-16.416667
+2268862328,CC_BY_4_0,Missouri Botanical Garden,MO,1994,10,23,NA,Dypsis nodifera,49.7,-16.483333
+2268862230,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,11,NA,Dypsis nodifera,49.7,-16.716667
+1928075921,CC0_1_0,The New York Botanical Garden,NY,2006,9,15,NA,Dypsis integra,49.6056,-16.66358
+1677261542,CC_BY_NC_4_0,Landy Rita,iNaturalist,2016,6,11,17,Dypsis lastelliana,49.71539,-16.765792
+1453257920,CC_BY_NC_4_0,mamy_andriamahay,iNaturalist,2016,11,29,21,Dypsis lastelliana,49.676618,-16.777728
+1291082714,CC_BY_NC_4_0,Helene Ralimanana,iNaturalist,2016,6,13,42,Dypsis lastelliana,49.685602,-16.788466
+1261014731,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis linearis,49.58333,-16.8
+1261012952,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis concinna,49.73333,-16.68333
+1261009209,CC_BY_4_0,Missouri Botanical Garden,MO,1994,8,NA,NA,Dypsis perrieri,49.73333,-16.38333
+1261009192,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis procumbens,49.63333,-16.3
+1261009141,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis pervillei,49.73333,-16.68333
+1261009135,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis perrieri,49.73333,-16.68333
+1261008606,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis pilulifera,49.73333,-16.68333
+1260964149,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis humbertii,49.73333,-16.68333
+1260964088,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,NA,NA,Dypsis integra,49.73333,-16.68333
+1260923623,CC_BY_4_0,Missouri Botanical Garden,MO,1994,8,NA,NA,Dypsis fibrosa,49.83333,-16.43333
+1260923621,CC_BY_4_0,Missouri Botanical Garden,MO,2006,9,15,NA,Dypsis fibrosa,49.603333,-16.673889
+1260923575,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,NA,NA,Dypsis bejofo,49.83333,-16.43333
+1260923073,CC_BY_4_0,Missouri Botanical Garden,MO,1994,8,NA,NA,Dypsis hovomantsina,49.83333,-16.43333
+1260918234,CC_BY_4_0,Missouri Botanical Garden,MO,1912,8,NA,NA,Dypsis mocquerysiana,49.73333,-16.38333
+1260917223,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,13,NA,Dypsis viridis,49.76666,-16.45
+1260917188,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis glabrescens,49.76666,-16.45
+1260915656,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,NA,NA,Dypsis pusilla,49.83333,-16.43333
+1260915214,CC_BY_4_0,Missouri Botanical Garden,MO,1917,8,NA,NA,Dypsis fasciculata,49.73333,-16.38333
+1260915199,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis fasciculata,49.73333,-16.38333
+1260915194,CC_BY_4_0,Missouri Botanical Garden,MO,1994,NA,NA,NA,Dypsis crinita,49.73333,-16.38333
+1260914845,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis lantzeana,49.63333,-16.3
+1260914843,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis forficifolia,49.76666,-16.45
+1260914825,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,NA,NA,Dypsis lantzeana,49.73333,-16.38333
+1260914683,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,NA,NA,Dypsis thiryana,49.73333,-16.38333
+1260914283,CC_BY_4_0,Missouri Botanical Garden,MO,1912,10,NA,NA,Dypsis mangorensis,49.733333,-16.383333
+1260914195,CC_BY_4_0,Missouri Botanical Garden,MO,NA,NA,NA,NA,Dypsis psammophila,49.73333,-16.69166
+1260901376,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,NA,NA,Dypsis lastelliana,49.83333,-16.43333
+1260901359,CC_BY_4_0,Missouri Botanical Garden,MO,1994,10,NA,NA,Dypsis tokoravina,49.71666,-16.45
+1260899825,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,NA,NA,Dypsis tsaravoasira,49.833333,-16.433333
+1260899756,CC_BY_4_0,Missouri Botanical Garden,MO,1988,2,NA,NA,Dypsis bejofo,49.83333,-16.53333
+1260899747,CC_BY_4_0,Missouri Botanical Garden,MO,1994,10,NA,NA,Dypsis hovomantsina,49.83333,-16.43333
+1260881605,CC_BY_4_0,Missouri Botanical Garden,MO,2007,6,29,NA,Dypsis pinnatifrons,49.71611,-16.77694
+1260725713,CC_BY_4_0,Missouri Botanical Garden,MO,2007,7,4,NA,Dypsis heterophylla,49.68555,-16.78416
+1260365644,CC_BY_4_0,Missouri Botanical Garden,MO,1912,10,NA,NA,Dypsis forficifolia,49.733333,-16.383333
+1260352854,CC_BY_4_0,Missouri Botanical Garden,MO,1912,9,NA,NA,Dypsis linearis,49.8,-16.616667
+1260295997,CC_BY_4_0,Missouri Botanical Garden,MO,1987,2,27,NA,Dypsis pinnatifrons,49.71666,-16.53333
+1260295055,CC_BY_4_0,Missouri Botanical Garden,MO,1987,2,26,NA,Dypsis paludosa,49.716667,-16.533333
+1260295043,CC_BY_4_0,Missouri Botanical Garden,MO,1987,2,26,NA,Dypsis bejofo,49.71666,-16.53333
+1259882029,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,7,NA,Dypsis ramentacea,49.75,-16.416667
+1259882005,CC_BY_4_0,Missouri Botanical Garden,MO,1991,10,5,NA,Dypsis fanjana,49.766667,-16.45
+1258264105,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,15,NA,Dypsis antanambensis,49.766667,-16.45
+1258262899,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,13,NA,Dypsis boiviniana,49.76666,-16.45
+1258262658,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,13,NA,Dypsis coriacea,49.76666,-16.45
+1258262650,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,19,NA,Dypsis mangorensis,49.63333,-16.3
+1258262391,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,21,NA,Dypsis serpentina,49.766667,-16.45
+1258262322,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,21,NA,Dypsis ovobontsira,49.766667,-16.45
+1258261866,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,21,NA,Dypsis paludosa,49.76666,-16.45
+1258261860,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,15,NA,Dypsis confusa,49.76666,-16.45
+1258261791,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,13,NA,Dypsis paludosa,49.76666,-16.45
+1258261761,CC_BY_4_0,Missouri Botanical Garden,MO,1992,4,15,NA,Dypsis beentjei,49.76666,-16.45
+1257828484,CC_BY_4_0,Missouri Botanical Garden,MO,2010,5,31,NA,Dypsis nodifera,49.694167,-16.792222
+1257679392,CC_BY_4_0,Missouri Botanical Garden,MO,2010,9,24,NA,Dypsis bernierana,49.698333,-16.809167
+912435130,CC_BY_4_0,,K,2006,9,14,NA,Dypsis nodifera,49.6,-16.67
+912435105,CC_BY_4_0,,K,2006,9,14,NA,Dypsis nodifera,49.6,-16.67
+912387200,CC_BY_4_0,,K,2003,5,16,NA,Dypsis pinnatifrons,49.71,-16.77
+912387034,CC_BY_4_0,,K,2006,9,18,NA,Dypsis lantzeana,49.59,-16.67
+912387019,CC_BY_4_0,,K,2006,9,18,NA,Dypsis pervillei,49.59,-16.67
+912387018,CC_BY_4_0,,K,2006,9,17,NA,Dypsis thiryana,49.6,-16.66
+912387001,CC_BY_4_0,,K,2006,9,15,NA,Dypsis fibrosa,49.6,-16.67
+912386992,CC_BY_4_0,,K,2006,9,17,NA,Dypsis concinna,49.61,-16.69
+912386991,CC_BY_4_0,,K,2006,9,14,NA,Dypsis boiviniana,49.6,-16.67
+912386987,CC_BY_4_0,,K,2006,9,15,NA,Dypsis paludosa,49.6,-16.66
+912386984,CC_BY_4_0,,K,2006,9,16,NA,Dypsis humbertii,49.6,-16.69
+912386981,CC_BY_4_0,,K,2006,9,15,NA,Dypsis hovomantsina,49.6,-16.67
+912386980,CC_BY_4_0,,K,2006,9,15,NA,Dypsis integra,49.61,-16.66
+912386979,CC_BY_4_0,,K,2006,9,14,NA,Dypsis forficifolia,49.6,-16.67
+912386978,CC_BY_4_0,,K,2006,9,18,NA,Dypsis linearis,49.6,-16.67
+912386977,CC_BY_4_0,,K,2006,9,17,NA,Dypsis linearis,49.6,-16.66
+912386975,CC_BY_4_0,,K,2006,9,16,NA,Dypsis viridis,49.61,-16.69
+912386950,CC_BY_4_0,,K,2006,9,14,NA,Dypsis crinita,49.6,-16.67
+912386949,CC_BY_4_0,,K,2006,9,14,NA,Dypsis perrieri,49.6,-16.67
+912386944,CC_BY_4_0,,K,2006,9,16,NA,Dypsis lastelliana,49.6,-16.67
+912261609,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis viridis,49.7,-16.48
+912261595,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis thiryana,49.77,-16.45
+912261584,CC_BY_4_0,,K,1994,8,8,0.2,Dypsis viridis,49.7,-16.48
+912261573,CC_BY_4_0,,K,1994,8,5,0.2,Dypsis viridis,49.77,-16.45
+912261572,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis viridis,49.77,-16.45
+912261569,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis tsaravoasira,49.7,-16.48
+912261528,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis serpentina,49.7,-16.48
+912261527,CC_BY_4_0,,K,1991,10,7,0.2,Dypsis pusilla,49.75,-16.42
+912261522,CC_BY_4_0,,K,1994,8,2,0.2,Dypsis simianensis,49.77,-16.45
+912261520,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis simianensis,49.77,-16.45
+912261519,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis serpentina,49.77,-16.45
+912261516,CC_BY_4_0,,K,1994,8,27,0.2,Dypsis procera,49.77,-16.45
+912261509,CC_BY_4_0,,K,1994,8,19,0.2,Dypsis serpentina,49.72,-16.43
+912261504,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis pusilla,49.77,-16.45
+912261498,CC_BY_4_0,,K,1991,10,7,0.2,Dypsis ramentacea,49.75,-16.42
+912261492,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis paludosa,49.7,-16.48
+912261491,CC_BY_4_0,,K,1994,8,11,0.2,Dypsis perrieri,49.7,-16.48
+912261487,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis pusilla,49.7,-16.48
+912261483,CC_BY_4_0,,K,1994,8,11,0.2,Dypsis paludosa,49.7,-16.48
+912261481,CC_BY_4_0,,K,1994,8,11,0.2,Dypsis paludosa,49.7,-16.48
+912261471,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis paludosa,49.7,-16.48
+912261467,CC_BY_4_0,,K,1994,8,26,0.2,Dypsis procera,49.77,-16.45
+912261463,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis paludosa,49.77,-16.45
+912261456,CC_BY_4_0,,K,1994,8,9,0.2,Dypsis paludosa,49.7,-16.48
+912261451,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis paludosa,49.77,-16.45
+912261448,CC_BY_4_0,,K,1994,8,5,0.2,Dypsis perrieri,49.77,-16.45
+912261447,CC_BY_4_0,,K,1994,8,27,0.2,Dypsis paludosa,49.77,-16.45
+912261423,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis ovobontsira,49.77,-16.45
+912189921,CC_BY_4_0,,K,1994,10,26,NA,Dypsis nodifera,49.7,-16.48
+912189870,CC_BY_4_0,,K,1994,10,23,NA,Dypsis nodifera,49.7,-16.48
+912189861,CC_BY_4_0,,K,1992,4,14,NA,Dypsis forficifolia,49.77,-16.45
+912158052,CC_BY_4_0,,K,1992,4,19,0.2,Dypsis mangorensis,49.63,-16.3
+912158016,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis lastelliana,49.77,-16.45
+912158014,CC_BY_4_0,,K,1994,8,9,0.2,Dypsis lantzeana,49.7,-16.48
+912158010,CC_BY_4_0,,K,NA,NA,NA,0.2,Dypsis lantzeana,49.63,-16.3
+912158004,CC_BY_4_0,,K,1994,7,28,1,Dypsis lastelliana,49.77,-16.45
+912157997,CC_BY_4_0,,K,1994,8,4,0.2,Dypsis lantzeana,49.77,-16.45
+912157992,CC_BY_4_0,,K,1994,8,9,0.2,Dypsis lantzeana,49.77,-16.45
+912157986,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis lantzeana,49.7,-16.48
+912157978,CC_BY_4_0,,K,1994,8,9,0.2,Dypsis lantzeana,49.77,-16.45
+912157974,CC_BY_4_0,,K,1992,4,19,0.2,Dypsis jumelleana,49.63,-16.3
+912157973,CC_BY_4_0,,K,1994,10,25,0.2,Dypsis hovomantsina,49.7,-16.48
+912157972,CC_BY_4_0,,K,1994,8,3,0.2,Dypsis hovomantsina,49.77,-16.45
+912157968,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis glabrescens,49.77,-16.45
+912157967,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis lantzeana,49.77,-16.45
+912157966,CC_BY_4_0,,K,1994,10,25,0.2,Dypsis hovomantsina,49.7,-16.48
+912157960,CC_BY_4_0,,K,1994,10,26,0.2,Dypsis hiarakae,49.7,-16.48
+912157942,CC_BY_4_0,,K,1994,8,4,0.2,Dypsis fanjana,49.77,-16.45
+912157938,CC_BY_4_0,,K,1994,10,22,0.2,Dypsis glabrescens,49.7,-16.48
+912157936,CC_BY_4_0,,K,1994,7,27,0.2,Dypsis glabrescens,49.77,-16.45
+912157934,CC_BY_4_0,,K,1994,8,2,0.2,Dypsis glabrescens,49.77,-16.45
+912157931,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis faneva,49.77,-16.45
+912157927,CC_BY_4_0,,K,1994,8,8,0.2,Dypsis fanjana,49.7,-16.48
+912157915,CC_BY_4_0,,K,1994,8,18,0.2,Dypsis fanjana,49.77,-16.45
+912157902,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis faneva,49.77,-16.45
+912157895,CC_BY_4_0,,K,1994,8,3,0.2,Dypsis fanjana,49.77,-16.45
+912157892,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis fanjana,49.7,-16.48
+912157889,CC_BY_4_0,,K,1994,8,2,0.2,Dypsis fanjana,49.77,-16.45
+912157888,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis confusa,49.77,-16.45
+912157887,CC_BY_4_0,,K,1994,8,5,0.2,Dypsis fanjana,49.77,-16.45
+912157883,CC_BY_4_0,,K,1994,8,3,0.2,Dypsis fanjana,49.77,-16.45
+912157876,CC_BY_4_0,,K,1991,10,7,0.2,Dypsis fanjana,49.75,-16.42
+912157875,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis fanjana,49.77,-16.45
+912157845,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis corniculata,49.7,-16.48
+912157843,CC_BY_4_0,,K,1994,8,14,0.2,Dypsis crinita,49.77,-16.45
+912157837,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis coriacea,49.77,-16.45
+912157813,CC_BY_4_0,,K,1994,8,27,0.2,Dypsis boiviniana,49.77,-16.45
+912157810,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis beentjei,49.77,-16.45
+912157802,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis boiviniana,49.7,-16.48
+912157797,CC_BY_4_0,,K,1991,10,6,0.2,Dypsis bejofo,49.82,-16.43
+912157790,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis antanambensis,49.77,-16.45
+912157783,CC_BY_4_0,,K,1994,8,5,0.2,Dypsis boiviniana,49.77,-16.45
+912157777,CC_BY_4_0,,K,1991,10,9,0.2,Dypsis beentjei,49.7,-16.48
+912157769,CC_BY_4_0,,K,1994,8,21,0.2,Dypsis antanambensis,49.77,-16.45
+912157763,CC_BY_4_0,,K,1994,7,28,0.2,Dypsis beentjei,49.77,-16.45
+912157753,CC_BY_4_0,,K,1987,2,25,0.2,Dypsis bejofo,49.72,-16.53
+912157751,CC_BY_4_0,,K,1992,4,16,0.2,Dypsis boiviniana,49.77,-16.45
+912157577,CC_BY_4_0,,K,1994,10,24,NA,Dypsis thiryana,49.7,-16.48
+912157568,CC_BY_4_0,,K,1994,10,25,NA,Dypsis corniculata,49.7,-16.48
+912157529,CC_BY_4_0,,K,1994,10,26,NA,Dypsis boiviniana,49.7,-16.48
+912064780,CC_BY_4_0,,K,1994,8,19,0.2,Dypsis serpentina,49.72,-16.43
+912064650,CC_BY_4_0,,K,1994,8,14,0.2,Dypsis crinita,49.77,-16.45
+912062317,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis antanambensis,49.77,-16.45
+912062311,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis ovobontsira,49.77,-16.45
+912062291,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis paludosa,49.77,-16.45
+912062272,CC_BY_4_0,,K,1991,10,7,0.2,Dypsis pusilla,49.75,-16.42
+912062252,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis boiviniana,49.7,-16.48
+912062248,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis paludosa,49.7,-16.48
+912062244,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis confusa,49.77,-16.45
+912062238,CC_BY_4_0,,K,1994,10,25,0.2,Dypsis hovomantsina,49.7,-16.48
+912062230,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis serpentina,49.77,-16.45
+912062209,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis fanjana,49.77,-16.45
+912062184,CC_BY_4_0,,K,1992,4,21,0.2,Dypsis pusilla,49.77,-16.45
+912062179,CC_BY_4_0,,K,1991,10,9,0.2,Dypsis beentjei,49.7,-16.48
+912062163,CC_BY_4_0,,K,1994,10,23,0.2,Dypsis serpentina,49.7,-16.48
+912062150,CC_BY_4_0,,K,1991,10,5,0.2,Dypsis simianensis,49.77,-16.45
+912061737,CC_BY_4_0,,K,1994,10,25,0.2,Dypsis hovomantsina,49.7,-16.48
+912061726,CC_BY_4_0,,K,1991,10,6,0.2,Dypsis bejofo,49.82,-16.43
+912061710,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis beentjei,49.77,-16.45
+912061707,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis paludosa,49.77,-16.45
+912061693,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis viridis,49.77,-16.45
+912060969,CC_BY_4_0,,K,1994,8,11,0.2,Dypsis paludosa,49.7,-16.48
+912060956,CC_BY_4_0,,K,1994,8,2,0.2,Dypsis glabrescens,49.77,-16.45
+912060949,CC_BY_4_0,,K,1994,7,27,0.2,Dypsis glabrescens,49.77,-16.45
+912060939,CC_BY_4_0,,K,1994,7,28,0.2,Dypsis beentjei,49.77,-16.45
+912060913,CC_BY_4_0,,K,1994,8,2,0.2,Dypsis simianensis,49.77,-16.45
+912060903,CC_BY_4_0,,K,1994,8,5,0.2,Dypsis viridis,49.77,-16.45
+912060724,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis beentjei,49.77,-16.45
+912060702,CC_BY_4_0,,K,1992,4,15,0.2,Dypsis glabrescens,49.77,-16.45
+912060691,CC_BY_4_0,,K,1991,10,7,0.2,Dypsis ramentacea,49.75,-16.42
+912060670,CC_BY_4_0,,K,1992,4,13,0.2,Dypsis lantzeana,49.77,-16.45
+912059974,CC_BY_4_0,,K,1991,10,6,0.2,Dypsis bejofo,49.82,-16.43
+912059940,CC_BY_4_0,,K,1992,4,19,0.2,Dypsis mangorensis,49.63,-16.3
+912059930,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis pusilla,49.7,-16.48
+912059891,CC_BY_4_0,,K,1991,10,8,0.2,Dypsis tsaravoasira,49.7,-16.48
+912027128,CC_BY_4_0,,K,1994,8,8,0.2,Dypsis viridis,49.7,-16.48
+438955151,CC_BY_4_0,,MNHN,1992,4,21,NA,Dypsis ovobontsira,49.76667,-16.45
+438954827,CC_BY_4_0,,MNHN,1912,9,NA,NA,Dypsis integra,49.58333,-16.83333
+437623016,CC_BY_4_0,,MNHN,1992,4,21,NA,Dypsis ovobontsira,49.76667,-16.45
+437453713,CC_BY_4_0,,MNHN,1992,4,21,NA,Dypsis serpentina,49.76667,-16.45
+437290151,CC_BY_4_0,,MNHN,1912,9,NA,NA,Dypsis linearis,49.8,-16.6

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f367501d-f153-4a34-83ac-727a902c6c80"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ejmxzy</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=confluences_dermaptera</alternateIdentifier>
+        <alternateIdentifier>f367501d-f153-4a34-83ac-727a902c6c80</alternateIdentifier>
+    <title>Dermaptera</title>
+    <creator>
+    <individualName>
+<givenName>Cédric</givenName>          <surName>Audibert</surName>
+    </individualName>
+<organizationName>Musée des Confluences</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>86 quai Perrache</deliveryPoint><city>Lyon</city><postalCode>69285</postalCode><country>FRANCE</country>    </address>
+<phone>+33428382540</phone><electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Madeleine</givenName>          <surName>Flye Sainte Marie</surName>
+    </individualName>
+<organizationName>No affiliation</organizationName><positionName>-</positionName><electronicMailAddress>madeleine.flye@hotmail.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Cédric</givenName>          <surName>Audibert</surName>
+    </individualName>
+<organizationName>Musée des Confluences</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>86 quai Perrache</deliveryPoint><city>Lyon</city><postalCode>69285</postalCode><country>FRANCE</country>    </address>
+<phone>+33428382540</phone><electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>GBIF</givenName>          <surName>France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset is the databased part of Dermaptera from the entomological collections of the Musée des Confluences (Lyon). It comprises 488 specimens belonging to different collections (Harold Labrique: missions and collections in Morocco, 2004-2018, René Pupier, Jean David and many others). All specimens have been identified by Madeleine Flye Sainte Marie. Christophe Girod helped us with some determinations.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>musée des Confluences</keyword>
+              <keyword>insects</keyword>
+              <keyword>earwigs</keyword>
+              <keyword>Dermaptera</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Europe, Africa, Asia, America</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1875
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Insecta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dermaptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Carcinophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chelisochidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Forficulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Labiduridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Labiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pygidicranidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Spongiphoridae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Cédric</givenName>          <surName>Audibert</surName>
+    </individualName>
+<organizationName>Musée des Confluences</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>86 quai Perrache</deliveryPoint><city>Lyon</city><postalCode>69285</postalCode><country>FRANCE</country>    </address>
+<phone>+33428382540</phone><electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Madeleine</givenName>          <surName>Flye Sainte Marie</surName>
+    </individualName>
+<organizationName>Musée des Confluences</organizationName><positionName>Volunteer</positionName>    <address>
+<city>Lyon</city><country>FRANCE</country>    </address>
+<electronicMailAddress>madeleine.flye@hotmail.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:26Z</dateStamp>
+      <citation>Audibert C, Flye Sainte Marie M (2019). Dermaptera. Version 1.11. Musée des Confluences. Occurrence dataset https://doi.org/10.15468/ejmxzy accessed via GBIF.org on 2023-01-08.</citation>
+              <bibliography>
+      <citation>David J. &amp; Van Herrewege C., 1973. Une sous-espèce française de Chelidura pyrenaica (Bonelli) (Dermaptères) : C. pyrenaica arverna, ssp. n. Bulletin mensuel de la Société linnéenne de Lyon, H.S. : 31-41.</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

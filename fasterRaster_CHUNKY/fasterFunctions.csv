@@ -1,0 +1,70 @@
+fasterRaster,status,terra,sf,GRASS,Input,Output,Description,grassURL1,grassURL2
+compareFloat,good,NA,NA,NA,numeric,logical,Compare values accounting for differences due to floating point precision,NA,NA
+faster,,NA,NA,NA,raster* &| vector*,raster; vector,Generic function to call a 'GRASS' module (function),NA,NA
+fasterApp,good,app,NA,r.mapcalc,raster*,raster,User-defined calculations on one or more rasters,https://grass.osgeo.org/grass82/manuals/r.mapcalc.html,NA
+fasterBufferRast,good,buffer,NA,r.buffer; r.grow,raster*,raster,Buffer cells of a raster,https://grass.osgeo.org/grass82/manuals/r.buffer.html,https://grass.osgeo.org/grass82/manuals/r.grow.html
+fasterBufferVect,good,buffer,st_buffer,v.buffer,raster*,vector,Create a buffer around a spatial vector,https://grass.osgeo.org/grass82/manuals/v.buffer.html,NA
+fasterContour,good,contour; as.contour,NA,r.contour,raster*,vector,Contour vectors from a raster,https://grass.osgeo.org/grass82/manuals/r.contour.html,NA
+fasterConvertDegree,good,NA,NA,NA,raster* | numeric,raster; numeric,Convert degrees between cases with 0 = north and 0 = east,NA,NA
+fasterCopy,good,NA,NA,g.copy,raster**,logical,Make a copy of a raster or vector,https://grass.osgeo.org/grass82/manuals/g.cipy.html,NA
+fasterConvHull,good,convHull,st_convex_hull,v.hull,vector*,vector,Minimum convex hull around a spatial vector,https://grass.osgeo.org/grass82/manuals/v.hull.html,NA
+fasterCropRast,good,crop,NA,g.region; r.clip; r.mask,raster*,raster,Crop a raster to the region of overlap with another raster or vector,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+fasterDelaunay,good,delaunay,st_triangulate,v.delaunay,vector*,vector,Delauney triangulation for points,https://grass.osgeo.org/grass82/manuals/v.delaunay.html,NA
+fasterDim,good,dim,NA,r.info,raster**,numeric,Number of rows and columns of a raster,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+fasterExt,good,ext; SpatExtent,st_bbox,r.info; v.info,raster**,numeric,Extent of a raster or vector,https://grass.osgeo.org/grass82/manuals/r.info.html,https://grass.osgeo.org/grass82/manuals/v.info.html
+fasterExists,good,NA,NA,NA,raster* &| vector*,logical,Is there a raster or vector of the given name in the active 'GRASS' session?,NA,NA
+fasterExtendRast,,extend,NA,g.region,raster*,raster,Extend a raster to a larger region,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+fasterFocal,good,focal; focalCpp,NA,r.neighbors,raster*,raster,Calculations on neighboring cells of a raster,https://grass.osgeo.org/grass82/manuals/r.neighbors.html,NA
+fasterFractalRast,good,NA,NA,r.surf.fractal,raster*,raster,Raster with a fractal pattern,https://grass.osgeo.org/grass82/manuals/r.surf.fractal.html,NA
+fasterFragmentation,,NA,NA,NA,raster*,raster,"Fragmentation indices for a raster (i.e., forest fragmentation)",NA,NA
+fasterFunctions,good,?terra,NA,NA,NA,NA,"Table of equivalent functions in fasterRaster, GRASS, and terra",https://grass.osgeo.org/grass82/manuals/index.html,NA
+fasterGetOptions,good,NA,NA,NA,NA,NA,Get global options for 'fasterRaster' functions,NA,NA
+fasterGlobal,"allow import of raster, too",global,NA,r.describe,raster**,numeric,Statistics summarizing all values of a raster,https://grass.osgeo.org/grass82/manuals/r.univar.html,NA
+fasterHelp,good,?terra,?sf,NA,character,data.frame,"Lookup equivalent functions in 'fasterRaster', 'GRASS', 'terra', and 'sf'",https://grass.osgeo.org/grass82/manuals/index.html,NA
+fasterHexagonGrid,,NA,NA,NA,vector*,vector,Create a hexagonal ploygon vector,,NA
+fasterHorizon,good,NA,NA,r.horizon,raster*,raster,Height of the horizon from an elevation raster,https://grass.osgeo.org/grass82/manuals/r.horizon.html,NA
+fasterInfo,good,NA,NA,r.info; v.info,raster** &| vector**,data.frame,Information on rasters and/or vectors in a 'GRASS' session,https://grass.osgeo.org/grass82/manuals/r.info.html,https://grass.osgeo.org/grass82/manuals/v.info.html
+fasterLongLatRasters,good,NA,NA,r.latlong,raster*,raster,Longitude and latitude rasters,https://grass.osgeo.org/grass82/manuals/r.latlong.html,NA
+fasterLs,good,NA,NA,NA,NA,character,Names of all rasters/vectors in a 'GRASS' session,https://grass.osgeo.org/grass82/manuals/g.list.html,NA
+fasterMakeMask,good,mask,NA,r.mask,raster* | vector*,raster,Mask values in a raster using another raster or vector,https://grass.osgeo.org/grass82/manuals/r.mask.html,NA
+fasterMaskRast,good,mask,NA,r.mask,raster* | vector*,raster,Mask values in a raster using another raster or vector,https://grass.osgeo.org/grass82/manuals/r.mask.html,NA
+fasterMosaic,good,mosaic,NA,r.patch,raster*,raster,Combine rasters that do not overlap perfectly,https://grass.osgeo.org/grass82/manuals/r.patch.html,NA
+fasterNcell,good,ncell,NA,r.info,raster*,numeric,Number of cells in a raster,https://grass.osgeo.org/grass82/manuals/r.info.html,NA
+fasterNcol,good,ncol,NA,r.info,raster*,numeric,Number of columns in a raster,https://grass.osgeo.org/grass82/manuals/r.info.html,NA
+fasterNrow,good,nrow,NA,r.info,raster*,numeric,Number of rows in a raster,https://grass.osgeo.org/grass82/manuals/r.info.html,NA
+fasterProjectRast,OK,project; resample,NA,r.proj,raster*,raster,Project and resample a raster,https://grass.osgeo.org/grass82/manuals/r.proj.html,NA
+fasterProjectVect,good,project,st_transform,v.proj,vector*,vector,Project a spatial vector,https://grass.osgeo.org/grass82/manuals/v.proj.html,NA
+fasterQuantile,good,quantile,NA,r.quantile,raster*,numeric,Quantiles for a raster,https://grass.osgeo.org/grass82/manuals/r.quantile.html,NA
+fasterRast,good,rast,NA,r.in.gdal,raster,NA,Export raster to an active GRASS session,https://grass.osgeo.org/grass82/manuals/r.in.gdal.html,NA
+fasterDistanceRast,good,distance,NA,r.grow.distance,raster*,raster,Distance between cells with NAs and closest non-NA cells on a raster,https://grass.osgeo.org/grass82/manuals/r.grow.distance.html,NA
+fasterRaster,,NA,NA,NA,NA,NA,List of functions in fasterRaster,NA,NA
+fasterRasterize,,rasterize,NA,v.to.rast,vector*,raster,Rasterize a spatial vector,https://grass.osgeo.org/grass82/manuals/v.to.rast.html,NA
+fasterRes,good,res,NA,r.info,raster**,numeric,Spatial resolution of a raster,https://grass.osgeo.org/grass82/manuals/r.info.html,NA
+fasterResampleRast,,resample,NA,r.resample.interp; r.resample,raster*,raster,Resample a raster (change spatial resolution),https://grass.osgeo.org/grass82/manuals/r.resample.interp.html,https://grass.osgeo.org/grass82/manuals/r.resample.html
+fasterRename,good,NA,NA,g.rename,raster** | vector**,NA,Rename a raster or vector,https://grass.osgeo.org/grass82/manuals/g.rename.html,NA
+fasterReshapeVect,,,,v.clean,vector*,vector,,https://grass.osgeo.org/grass82/manuals/v.clean.html,NA
+fasterRm,good,NA,NA,g.remove,raster** | vector**,NA,Delete raster(s) and/or vector(s) from a GRASS session,https://grass.osgeo.org/grass82/manuals/g.remove.html,NA
+fasterSetOptions,good,NA,NA,NA,NA,NA,Set global options for fasterRaster functions,NA,NA
+fasterSun,,NA,NA,r.sun,raster*,raster,Solar radiance and irradiation raster,https://grass.osgeo.org/grass82/manuals/r.sun.html,NA
+fasterTerrain,good,terrain,NA,r.slope.aspect,raster*,raster,"Slope, aspect, curvature, and partial slope rasters",https://grass.osgeo.org/grass82/manuals/r.slope.aspect.html,NA
+fasterThinRast,,,,r.thin,raster*,raster,,https://grass.osgeo.org/grass82/manuals/r.thin.html,NA
+fasterTrimRast,,trim,NA,g.region,raster*,raster,Remove all rows and columns of a raster that are entirely NA,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+fasterTWI,,terrain,NA,r.topidx,raster*,raster,Topographic wetness index raster,https://grass.osgeo.org/grass82/manuals/r.topidx.html,NA
+fasterVect,needs to load from disk,vect,sf_read; st_as_sf,NA,vector*,NA,Export vector to an active GRASS session,NA,NA
+fasterAsPoints,good,as.points,NA,r.to.vect,raster*,vector,Convert a raster to a points vector,https://grass.osgeo.org/grass82/manuals/r.to.vect.html,NA
+fasterAsLines,good,as.lines,NA,r.to.vect,raster*,vector,Convert a raster to a lines vector,https://grass.osgeo.org/grass82/manuals/r.to.vect.html,NA
+fasterAsPolygons,good,as.polygons,NA,r.to.vect,raster*,vector,Convert a raster to a polygons vector,https://grass.osgeo.org/grass82/manuals/r.to.vect.html,NA
+fasterVectToRastDistance,,distance,NA,r.grow.distance,raster* & vector*,raster,Distance between raster cells and nearest spatial vector feature,https://grass.osgeo.org/grass82/manuals/r.grow.distance.html,NA
+fasterVoronoi,,voronoi,st_voronoi,v.voronoi,vector*,vector,Voronoi diagrams for points or polygons,https://grass.osgeo.org/grass82/manuals/v.voronoi.html,NA
+fasterWriteRaster,good,writeRaster,NA,r.out.gdal; r.out.ascii,raster**,raster,Save a raster in GRASS to disk,https://grass.osgeo.org/grass82/manuals/r.out.gdal.html,NA
+fasterWriteVector,good,NA,st_write,v.out.gdal,raster**,NA,Save one or more vectors to disk directly from a GRASS session,https://grass.osgeo.org/grass82/manuals/v.out.ogr.html,NA
+rastFromGrass,good,NA,NA,r.out.gdal,raster**,raster,Import a raster from a 'GRASS' session into R,NA,NA
+vectFromGrass,TBD,NA,NA,v.out.ogr,vector**,vector,Import a vector from a 'GRASS' session into R,NA,NA
+startFaster,good,NA,NA,NA,raster* &| vector*,NA,Initialize 'GRASS' session and import raster and/or vector(s),NA,NA
+regionDim,good,resample,NA,g.region,raster**,numeric,Get or set number of rows and columns of the 'GRASS' region,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+regionExt,good,NA,NA,g.region,raster**,numeric,Get or set extent of the 'GRASS' region,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+regionReshape,good,resample,NA,g.region,raster**,numeric,Simultaneously set resolution and extent of a 'GRASS' region,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+regionRes,good,resample,NA,g.region,raster**,numeric,Get or set spatial resolutuion of the 'GRASS' region,https://grass.osgeo.org/grass82/manuals/g.region.html,NA
+writeRaster4,good,writeRaster,NA,r.out.gdal; r.out.ascii,raster,NA,Save a raster exported from 'GRASS' to disk,https://grass.osgeo.org/grass82/manuals/r.out.gdal.html,NA
+writeRaster8,good,writeRaster,NA,r.out.gdal; r.out.ascii,raster,NA,Save a raster exported from 'GRASS' to disk,https://grass.osgeo.org/grass82/manuals/r.out.gdal.html,NA
+vectTopo,good,geomtype,st_geometry_type,v.info,vector**,NA,"Topological type of a spatial vector (point, line, polygon)",https://grass.osgeo.org/grass82/manuals/v.info.html,NA

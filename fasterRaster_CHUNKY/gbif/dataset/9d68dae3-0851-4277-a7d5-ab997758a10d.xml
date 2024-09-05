@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9d68dae3-0851-4277-a7d5-ab997758a10d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/v6mfx2</alternateIdentifier>
+        <alternateIdentifier>9d68dae3-0851-4277-a7d5-ab997758a10d</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=tan_collection</alternateIdentifier>
+    <title>All herbarium specimens of grasses held at TAN herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Marie Linah</givenName>          <surName>Rabarivola</surName>
+    </individualName>
+<organizationName>Kew Madagascar Conservation Centre</organizationName><positionName>Database Manager/Botanist</positionName>    <address>
+<deliveryPoint>Lot II J 131 B</deliveryPoint><city>Ambodivoanjo-Ivandry</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242368</phone><electronicMailAddress>L.Rabarivola@kew.org</electronicMailAddress><onlineUrl>https://teamkmcc.wordpress.com</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Velosoa</givenName>          <surName>Razafiniary</surName>
+    </individualName>
+<organizationName>Kew Madagascar Conservation Centre</organizationName><positionName>Database Officer</positionName>    <address>
+<deliveryPoint>Lot II J 131 B</deliveryPoint><city>Ambodivoanjo-Ivandry</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242368</phone><electronicMailAddress>v.razafinary@kew.org</electronicMailAddress><onlineUrl>https://teamkmcc.wordpress.com</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Henintsoa</givenName>          <surName>Razanajatovo</surName>
+    </individualName>
+<organizationName>Kew Madagascar Conservation Centre</organizationName><positionName>Database Officer</positionName>    <address>
+<deliveryPoint>Lot II J 131 B</deliveryPoint><city>Ambodivoanjo-Ivandry</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242368</phone><electronicMailAddress>h.razanajatovo@kew.org</electronicMailAddress><onlineUrl>https://teamkmcc.wordpress.com</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Solo Hery</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+<organizationName>Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Head of the Flora Department</positionName>    <address>
+<deliveryPoint>B.P. 4096</deliveryPoint><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 20 22 311 49</phone><electronicMailAddress>srapanarivo@yahoo.fr</electronicMailAddress><onlineUrl>http://www.pbzt.recherche.gov.mg</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Hélène</givenName>          <surName>Ralimanana</surName>
+    </individualName>
+<organizationName>Kew Madagascar Conservation Centre</organizationName><positionName>Team Manager</positionName>    <address>
+<deliveryPoint>Lot II J 131 B</deliveryPoint><city>Ambodivoanjo-Ivandry</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode>    </address>
+<phone>+261202242368</phone><electronicMailAddress>H.Ralimanana@kew.org</electronicMailAddress><onlineUrl>https://teamkmcc.wordpress.com</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Vorontsova</surName>
+    </individualName>
+<organizationName>Royal Botanic Gardens Kew</organizationName><positionName>Research Leader (Grasses) | Comparative Plant &amp; Fungal Biology</positionName>    <address>
+<city>Richmond Surrey</city><postalCode>TW9 3AB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>+44 (0)20 8332 5022</phone><electronicMailAddress>m.vorontsova@kew.org</electronicMailAddress><onlineUrl>http://www.kew.org/data/grassbase/index.html</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Solo Hery</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+<organizationName>Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Head of the Flora Department</positionName>    <address>
+<deliveryPoint>B.P. 4096</deliveryPoint><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 20 22 311 49</phone><electronicMailAddress>srapanarivo@yahoo.fr</electronicMailAddress><onlineUrl>http://www.pbzt.recherche.gov.mg</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2019-05-20
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains specimen of Poaceae family held at the Parc Botanique et Zoologique de Tsimbazaza. Those are related to specimen collected in Madagascar and the surrounding islands (La Reunion, Mauritius, Seychelles, Comoros, Juan de Nova, Europa Island, Glorioso islands, Mayottes) since 1841 to 2018. The basic data was provided by TAN herbarium. KMCC team have done the georeferencing of the old specimen by using the webs georeferencing tools and the gazetteer of Missouri Botanical Garden (MBG) and KMCC.  This publication is linked to the BID grasses project (BID-AF2017-0103-SMA) which is funded by GBIF through the European Union funding.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Europa Island</keyword>
+              <keyword>Seychelles</keyword>
+              <keyword>Poaceae</keyword>
+              <keyword>Madagascar</keyword>
+              <keyword>Glorioso Islands</keyword>
+              <keyword>Grass</keyword>
+              <keyword>Mauritius</keyword>
+              <keyword>La Reunion</keyword>
+              <keyword>Juan de Nova</keyword>
+              <keyword>Comoros</keyword>
+              <keyword>Specimen TAN</keyword>
+              <keyword>Mayotte</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madagascar and surrounding islands (La Reunion, Mauritius, Seychelles, Comoros, Juan de Nova, Europa Island, Glorioso islands, Mayottes)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>37.617</westBoundingCoordinate>
+                      <eastBoundingCoordinate>67.5</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-3.601</northBoundingCoordinate>
+                      <southBoundingCoordinate>-27.059</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Poaceae of Madagascar and surrounding islands according to Poaceae specimen collections from TAN Herbarium</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                          <commonName>Grass, Bozaka</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marie Linah</givenName>          <surName>Rabarivola</surName>
+    </individualName>
+<organizationName>Kew Madagascar Conservation Centre</organizationName><positionName>Database Manager/Botanist</positionName>    <address>
+<deliveryPoint>Lot II J 131 B</deliveryPoint><city>Ambodivoanjo-Ivandry</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242368</phone><electronicMailAddress>L.Rabarivola@kew.org</electronicMailAddress><onlineUrl>https://teamkmcc.wordpress.com</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Merging of existing records from TAN herbarium in the Poaceae database, georeferencing of oldest specimen by using MBG and KMCC gazetteer and the webs georeferencing tools,
+updating of the scientific name by Dr Maria Vorontsova (Grass specialist), cleaning data, publishing</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>To ensure that the data to be transferred to GBIF portal has a high quality, the database manager has done weekly a double check of data quality from the database officers. The checked data were cleaned and standardised in a BRAHMS database.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BID-AF2017-0103-SMA">
+          <title>Alien, native and endemic grasses of Madagascar</title>
+          <personnel>
+    <individualName>
+<givenName>Helene</givenName>          <surName>Ralimanana</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Vorontsova</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marie Linah</givenName>          <surName>Rabarivola</surName>
+    </individualName>
+    <role>PUBLISHER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Henintsoa</givenName>          <surName>Razanajatovo</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Velosoa</givenName>          <surName>Razafiniary</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Denis</givenName>          <surName>Filer</surName>
+    </individualName>
+    <role>PROGRAMMER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Pignal</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Solo Hery</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+    <role>USER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Vololoniaina</givenName>          <surName>Jeannoda</surName>
+    </individualName>
+    <role>USER</role>
+          </personnel>
+          <abstract>
+              <para>Images of herbarium specimens were sent to Madagascar and full data transcription and georeferencing took place. Data from TAN and Dr Maria Vorontsova’s research were compiled in the grass database. A checklist of the species which are endemic , alien and/or native are extracted from the book by Jean Bosser (1969)</para>
+          </abstract>
+          <funding>
+              <para>This project is co-funded by the European Union, GBIF and the Royal Botanic Gardens Kew</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Grasses of Madagascar and the surrounding islands (sector AFM)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The objectives of this project were to digitize all Madagascar and surrounding islands grass specimens from Paris herbarium, making the updated identification of these specimens from Paris and also from the data of TAN herbarium and doing the georeferencing of specimens which are not yet have any coordinates information. Around 14000 data entries with high quality are published on GBIF portal with one checklist of the Madagascar grasses by using the data from Bosser researches. These data are published via the MadBIF IPT and an atlas of Madagascar grasses will be provided.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>Rabarivola M L, Razafiniary V, Razanajatovo H, Rapanarivo S H, Ralimanana H, Vorontsova M (2019). All herbarium specimens of grasses held at TAN herbarium. Version 1.8. Kew Madagascar Conservation Centre - Royal Botanic Gardens Kew. Occurrence dataset https://doi.org/10.15468/v6mfx2 accessed via GBIF.org on 2023-01-08.</citation>
+              <bibliography>
+      <citation>http://www.geonames.org/</citation>
+      <citation>http://www.getamap.org</citation>
+      <citation>https://www.google.co.za/maps</citation>
+      <citation identifier="http://www.mobot.org/MOBOT/Research/madagascar/gazetteer/">Gazetteer to Malagasy Botanical Collecting Localities</citation>
+      <citation identifier="https://herbaria.plants.ox.ac.uk/bol/">BRAHMS database, Management of Natural History, University of Oxford</citation>
+              </bibliography>
+              <formationPeriod>1841-2018</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

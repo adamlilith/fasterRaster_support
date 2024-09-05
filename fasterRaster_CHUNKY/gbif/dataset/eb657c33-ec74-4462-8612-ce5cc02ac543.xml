@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="eb657c33-ec74-4462-8612-ce5cc02ac543"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/vf6as7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.kznm.saiab.ac.za/resource?r=kznm-entomology-collection</alternateIdentifier>
+        <alternateIdentifier>eb657c33-ec74-4462-8612-ce5cc02ac543</alternateIdentifier>
+        <alternateIdentifier>https://ipt.kznm.saiab.ac.za/resource?r=kznm-entomology-collection</alternateIdentifier>
+    <title>KwaZulu-Natal Museum-Entomology-collection</title>
+    <creator>
+    <individualName>
+<givenName>Siyabonga</givenName>          <surName>Zamisa</surName>
+    </individualName>
+<organizationName>KwaZulu-Natal Museum</organizationName><positionName>Data Technician</positionName>    <address>
+<deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint><city>Pietermaritzburg</city><administrativeArea>KwaZulu-Natal</administrativeArea><postalCode>3201</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27333410524</phone><electronicMailAddress>szamisa@nmsa.org.za</electronicMailAddress><onlineUrl>http://www.nmsa.org.za</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>John</givenName>          <surName>Midgley</surName>
+    </individualName>
+<organizationName>KwaZulu-Natal Museum</organizationName><positionName>Assistant Director</positionName>    <address>
+<deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint><city>Pietermaritzburg</city><administrativeArea>KwaZulu-Natal</administrativeArea><postalCode>3201</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27333410559</phone><electronicMailAddress>jmidgley@nmsa.org.za</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Midgley</surName>
+    </individualName>
+<organizationName>KwaZulu-Natal Musuem</organizationName><positionName>Assistant Director</positionName>    <address>
+<deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint><city>Pietermaritzburg</city><administrativeArea>KwaZulu-Natal</administrativeArea><postalCode>3201</postalCode>    </address>
+<phone>+27 33 341 0559</phone><electronicMailAddress>jmidgley@nmsa.org.za</electronicMailAddress><onlineUrl>http://www.nmsa.org.za</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2022-11-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Entomology collection is dominated by the Diptera (flies), which was commenced by Dr B. R. Stuckenberg in 1953. This collection consists of more than 200 000 specimens, and is one of the largest and most representative collections in the southern hemisphere. It is certainly the most comprehensive collection of flies in Africa, and as such is an important resource for African entomologists. It has been enlarged and consolidated, both by extensive collecting in Southern Africa, and by the acquisition of other significant regional collections. The Diptera collection of the Transvaal Museum was obtained by exchange in 1975, and the Zumpt Collection of the South African Institute of Medical Research was acquired by donation in 1983.</para>
+        <para>The collection of flies contains more than 1275 primary types and 5474 secondary types. It is housed in almost 1000 wooden insect drawers together with an alcohol and slide collection. The Entomology collection also includes several smaller collections including Heteroptera and Mecoptera. Material from the Entomology collection is regularly sent on loan to researchers around the world.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Entomology</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Entomology collection has specimens found all over the world.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-165.938</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-163.125</eastBoundingCoordinate>
+                      <northBoundingCoordinate>73.628</northBoundingCoordinate>
+                      <southBoundingCoordinate>-53.331</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1663
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2021
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The collection consists of 14 orders: Blattodea, Coleoptera, Diptera, Hemiptera, Hymenoptera, Isoptera, Lepidoptera, Mantodea, Mecoptera, Neuroptera, Odonata, Orthoptera, Phthiraptera and Siphonaptera.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Siphonaptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Blattodea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coleoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Diptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hemiptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hymenoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Isoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lepidoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Mantodea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Mecoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Neuroptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Odonata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Orthoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Phthiraptera</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Siyabonga</givenName>          <surName>Zamisa</surName>
+    </individualName>
+<organizationName>KwaZulu-Natal Museum</organizationName><positionName>Data Technician</positionName>    <address>
+<deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint><city>Pietermaritzburg</city><administrativeArea>KwaZulu-Natal</administrativeArea><postalCode>3201</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27333410524</phone><electronicMailAddress>szamisa@nmsa.org.za</electronicMailAddress><onlineUrl>http://www.nmsa.org.za</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data management by a Data technician.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Dataset comprises historical records from 1600 to 2021.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Historical collection records, including various methods such as malaise traps, hand collecting etc.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Historical specimens have been re-identified where possible.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="Entomology Collection">
+          <title>KwaZulu-Natal Museum</title>
+          <personnel>
+    <individualName>
+<givenName>John</givenName>          <surName>Midgley</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation identifier="https://www.nmsa.org.za/entomology-collection.html">Zamisa S, Midgley J (2022). KwaZulu-Natal Museum-Entomology-collection. Version 1.1. KwaZulu-Natal Museum. Occurrence dataset https://doi.org/10.15468/vf6as7 accessed via GBIF.org on 2023-01-08.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>https://www.nmsa.org.za/entomology-collection.html</collectionIdentifier>
+                <collectionName>Entomology Collection</collectionName>
+              </collection>
+                <specimenPreservationMethod>MICROSCOPIC_PREPARATION</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a5dd8cc3-7971-4b3c-a75c-d345940572bd"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/pucjqn</alternateIdentifier>
+        <alternateIdentifier>http://www.madbif.mg/ipt_madagascar/resource?r=tef-database</alternateIdentifier>
+        <alternateIdentifier>12774</alternateIdentifier>
+    <title>tef-database</title>
+    <creator>
+    <individualName>
+<givenName>Vola Fanantenana</givenName>          <surName>RAHARINIRINA</surName>
+    </individualName>
+<organizationName>FOFIFA/DRFP</organizationName><positionName>Database Manager</positionName>    <address>
+<deliveryPoint>Ambatobe</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>rvolaf@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andry</givenName>          <surName>Rakotomanjaka</surName>
+    </individualName>
+<organizationName>REBIOMA</organizationName><positionName>Technical Manager</positionName>    <address>
+<deliveryPoint>Soavimbahoaka</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>andry@madbif.mg</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2015-11-27
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>L’Herbier du FO.FI.FA (TEF) a été créé en 1948 par René Capuron comme partie intégrante du service national des forêts. Il est actuellement géré par le Centre national de la recherche appliquée au développement rural (FO.FI.FA). Ses collections sont principalement composées d’arbres indigènes collectés à partir d’un réseau de zones protégées, forêts classées et stations forestières de Madagascar. L’un des principaux objectifs du TEF est d’assurer la conservation d’une collection de référence de la flore ligneuse de Madagascar. Il se consacre aussi à la collecte et à la conservation de données primaires permettant de déterminer le cadre taxinomique délimitant les espèces. C’est enfin une source d&amp;#39;information géographique sur la distribution des espèces.On estime que le TEF contient 60 000 spécimens. Un catalogue manuscrit complet des spécimens collectés par les agents du service forestier du FO.FI.FA est maintenu à jour. La numérisation des collections a débuté en 1992 en collaboration avec le Jardin botanique du Missouri (MBG). De nombreux spécimens du TEF sont disponibles en ligne via la base de données TROPICOS, dont plus de 20 000 appartenant aux séries Service forestier et Réserves naturelles.Les recherches actuelles du TEF et ses activités de conservation sont menées avec le soutien de partenaires internationaux et nationaux. Cette collaboration conduit à l&amp;#39;ajout de nouveaux spécimens dans la mesure où les collaborateurs sont tenus de remettre un double de leurs spécimens à l’herbier. Les départements de recherche du FO.FI.FA sont surtout actifs dans le domaine de la systématique végétale et de l&amp;#39;identification des spécimens. Le TEF participe à la formation des étudiants et à leurs recherches en collaboration avec l&amp;#39;Université d&amp;#39;Antananarivo.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>BuxaceaeCombretaceaeDidymelaceaeEuphorbiaceaeFabaceaeFlacourtiaceaeHernandiaceaeIcacinace aeIcacinaceaeIxonanthaceaeLecythidaceaeLeguminosaeMelastomataceaeMeliaceaeMimosaceaeMyristicaceaePhyllanthaceaePhysenaceaePicrodendraceaeRubiaceaeSalicaceaeSphaerosepalaceae</keyword>
+              <keywordThesaurus>Family</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madagascar</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>43</westBoundingCoordinate>
+                      <eastBoundingCoordinate>51</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Raymond</givenName>          <surName>Rabevohitra</surName>
+    </individualName>
+<organizationName>FOFIFA/DRFP</organizationName>    <address>
+<deliveryPoint>Ambatobe</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><country>MADAGASCAR</country>    </address>
+<phone>+261(0)20 22 525 25</phone><electronicMailAddress>herbier.tef@moov.mg</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>RAHARINIRINA V F, Rakotomanjaka A (2015). tef-database. Centre National pour le Développement Rural - Madagascar (FOFIFA). Occurrence dataset https://doi.org/10.15468/pucjqn accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

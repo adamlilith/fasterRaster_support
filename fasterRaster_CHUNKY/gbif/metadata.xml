@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.kyegws"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0240863-220831081235567</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.kyegws</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2023-01-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;GadmGid is MDG&quot;,
+    &quot;Geometry POLYGON((49.36929 -16.91721,49.83544 -16.88654,49.93664 -16.63814,49.99491 -16.14746,49.36929 -16.14746,49.36929 -16.91721))&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from University of Michigan Museum of Zoology, Division of Reptiles &amp; Amphibians
+1 records from P herbarium - Muséum national d’histoire naturelle, Paris - Amostras Brasileiras Repatriadas - Herbário Virtual REFLORA
+1 records from New combinations and typifications in Vitex (Lamiaceae) from Madagascar
+1 records from Observatoire Pelagis aerial surveys 2002-2021
+1 records from Thunberga gen. nov., a new genus of huntsman spiders from Madagascar (Araneae: Sparassidae: Heteropodinae)
+1 records from Royal Museum of Central Africa - True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region (ENBI wp13)
+1 records from Botany (UPS)
+1 records from Botanical Database of Southern Africa (BODATSA): Botanical Collections
+1 records from Botanical Research Institute of Texas, Philecology Herbarium
+1 records from A taxonomic study of Dinapsis Waterson, 1922 from Madagascar (Hymenoptera Megalyridae, Dinapsini): crested wasps of the hirtipes species-group
+1 records from Database about reference specimens for medicinal plants, in the Apocynaceae family, owned by CNARP
+1 records from The molluscs collection (IM) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+1 records from University of Vienna, Institute for Botany - Herbarium WU
+1 records from Ecology and morphology of mouse lemurs (Microcebus spp.) in a hotspot of microendemism in northeastern Madagascar, with the description of a new species
+1 records from University of Michigan Museum of Zoology, Division of Fishes
+1 records from Gastrodia madagascariensis (Gastrodieae, Orchidaceae): from an historical designation to a description of a new species from Madagascar
+1 records from Nouveautés taxonomiques et nomenclaturales dans le genre Pteris L. (Pteridaceae) à Madagascar
+1 records from Collection Porifera - ZMB
+2 records from RBINS DaRWIN
+2 records from Universidad de Murcia, Dpto. Biología Vegetal (Botánica), Murcia: MUB-HEPATICAE
+2 records from database_orthoptera
+2 records from Database_lepidoptera
+2 records from Review of the Madagascan Orphninae (Coleoptera: Scarabaeidae) with a revision of the genus Triodontus Westwood
+2 records from Royal Belgian Institute of Natural Sciences Crustacea collection
+2 records from Dryinidae of the Afrotropical region (Hymenoptera, Chrysidoidea)
+2 records from Bryophyte Herbarium (H): Herbarium Generale
+2 records from University of Jena, Herbarium Haussknecht - Herbarium JE
+2 records from The cryptogamy collection (PC) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+2 records from A revision of Homalium sect. Odontolobus (Salicaceae) endemic to Madagascar
+2 records from Revision of the Malagasy genus Trichoteleia Kieffer (Hymenoptera, Platygastroidea, Platygastridae) - Darwin Core Archives
+3 records from TTU Mammals Collection
+3 records from Biologiezentrum Linz
+3 records from Observation.org, Nature data from around the World
+3 records from Digitonthophagus Balthasar, 1959: taxonomy, systematics, and morphological phylogeny of the genus revealing an African species complex (Coleoptera: Scarabaeidae: Scarabaeinae)
+3 records from KZNM-PINDIP-DIPTATEACH
+3 records from Australian Museum provider for OZCAM
+3 records from Database on reference specimens for medicinal plants of the Meliaceae family, conserved at the CNARP herbarium
+3 records from A revision of Homalium sect. Nisa (Salicaceae) endemic to Madagascar
+3 records from The fishes collection (IC) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+3 records from Towards a Revision of the Genus Vitex (Lamiaceae) in Madagascar. II: Three New Species from the Littoral Forests
+3 records from CAS Invertebrate Zoology (IZ)
+3 records from EOD – eBird Observation Dataset
+3 records from Herpetology Collection NRM
+4 records from Mosquito Occurrence Dataset
+4 records from Collection Mollusca SMF
+4 records from University of Michigan Herbarium
+4 records from KUBI Herpetology Collection
+4 records from The Coleoptera collection (EC) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+4 records from Dermaptera
+4 records from Taxonomic revision of Stigmatomma Roger (Hymenoptera: Formicidae) in the Malagasy region
+4 records from Bioversity Collecting Mission Database
+4 records from A revision of the Malagasy species of Homalium sect. Blackwellia (Salicaceae)
+5 records from Database_diptera
+5 records from Specimen references on the Sapotaceae family held by the TAN Herbarium
+5 records from Naturalis Biodiversity Center (NL) - Mammalia
+5 records from Museum of Comparative Zoology, Harvard University
+5 records from Revision of the Malagasy species of Homalium sect. Eumyriantheia Warb. (Salicaceae)
+5 records from Database about reference specimens for medicinal plants, in the Sapotaceae family, owned by CNARP
+5 records from A revision of Malagasy species of Anochetus Mayr and Odontomachus Latreille (Hymenoptera: Formicidae).
+5 records from Specimen references on the Rubiaceae family held by theTAN Herbarium
+5 records from Database on reference specimens for medicinal plants of the Fabaceae family, conserved at the CNARP herbarium
+6 records from Centre for Australian National Biodiversity Research (CANB) AVH data
+7 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+7 records from database_dyctio
+8 records from The ant genus Pheidole Westwood, 1839 (Hymenoptera: Formicidae) in Madagascar-taxonomic revision of the bessonii species-group
+8 records from NMSA: Arthropod Collections (1900-2012)
+8 records from The New York Botanical Garden Herbarium (NY)
+8 records from Database on reference specimens for medicinal plants of the Euphorbiaceae family, conserved at the CNARP herbarium
+8 records from A revision of Xylopia L. (Annonaceae): the species of Madagascar and the Mascarene islands
+9 records from Database on reference specimens for medicinal plants of the Rubiaceae family, conserved at the CNARP herbarium
+9 records from A global database for the distributions of crop wild relatives
+9 records from Specimen references on the Verbenaceae family held by the TAN Herbarium
+10 records from CAS Entomology (ENT)
+10 records from Field Museum of Natural History (Zoology) Insect, Arachnid and Myriapod Collection
+11 records from Phanerogamic Botanical Collections (S)
+12 records from database_hemiptera
+18 records from All herbarium specimens of grasses from Madagascar and the surrounding islands: family Poaceae, sector AFM
+19 records from Naturalis Biodiversity Center (NL) - Aves
+21 records from pbzt_insect_biodiversity
+24 records from CAS Botany (BOT)
+27 records from tan-database
+28 records from All herbarium specimens of grasses held at TAN herbarium
+28 records from Research database of Madagascar grasses compiled by Maria Vorontsova
+44 records from INSDC Host Organism Sequences
+57 records from Meise Botanic Garden Herbarium (BR)
+71 records from Database_Coleoptera_Madagascar Biodiversity Center PBZT
+79 records from NMNH Extant Specimen Records (USNM, US)
+82 records from Bryophyte specimens at TAN Herbarium
+84 records from tef-database
+85 records from iNaturalist Research-grade Observations
+113 records from KwaZulu-Natal Museum-Entomology-collection
+131 records from INSDC Sequences
+153 records from Naturalis Biodiversity Center (NL) - Botany
+205 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+364 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+633 records from International Barcode of Life project (iBOL)
+760 records from UF Invertebrate Zoology
+1891 records from AntWeb
+3136 records from Tropicos Specimen Data</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:31Z</dateStamp>
+      <citation identifier="10.15468/dl.kyegws">GBIF Occurrence Download 10.15468/dl.kyegws</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0240863-220831081235567.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

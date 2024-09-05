@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="af7ff8ba-8ab2-4f50-951e-5fb4df0c7f8f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/6aqsx8</alternateIdentifier>
+        <alternateIdentifier>af7ff8ba-8ab2-4f50-951e-5fb4df0c7f8f</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=pbzt_insect_biodiversity</alternateIdentifier>
+    <title>pbzt_insect_biodiversity</title>
+    <creator>
+    <individualName>
+<givenName>Ravelomanana</givenName>          <surName>Andrianjaka</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone>    </creator>
+    <creator>
+    <individualName>
+<givenName>Rajemison</givenName>          <surName>Balsama</surName>
+    </individualName>
+<organizationName>Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<country>MADAGASCAR</country>    </address>
+<electronicMailAddress>balsama38@hotmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Fisher</givenName>          <surName>Brian</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Reseacher1</positionName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>balsama38@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ravelomanana</givenName>          <surName>Andrianjaka</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+<electronicMailAddress>ravelomanana.njaka@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-12
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Our data concerns coleptera diversity hold at Parc Botanique et Zoologique de Tsimbazaza, Madagascar. This is the first published record at this collection largely publish on GBIF portal. This data was published to make data available, accessible and useful for biodvidersity conservation.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madagascar Insect Biodiversity</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>43.066</westBoundingCoordinate>
+                      <eastBoundingCoordinate>50.801</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11.609</northBoundingCoordinate>
+                      <southBoundingCoordinate>-25.879</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ravelomanana</givenName>          <surName>Andrianjaka</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone>      </contact>
+
+      <project id="BID-AF2015-0134-REG">
+          <title>African Insect Atlas</title>
+          <personnel>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Balsama</givenName>          <surName>Rajemison</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Brian</givenName>          <surName>Fisher</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Manoa</givenName>          <surName>Ramamonjisoa</surName>
+    </individualName>
+    <role>PROCESSOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>This project is funded by European union and GBIF</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Africa</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>Andrianjaka R, Balsama R, Brian F (2019). pbzt_insect_biodiversity. Version 1.31. Madagascar Biodiversity Center, Parc Botanique et Zoologique des Tsimbazaza. Occurrence dataset https://doi.org/10.15468/6aqsx8 accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

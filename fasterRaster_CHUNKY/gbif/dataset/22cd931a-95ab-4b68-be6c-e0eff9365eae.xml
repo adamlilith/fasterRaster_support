@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="22cd931a-95ab-4b68-be6c-e0eff9365eae"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/cslyxs</alternateIdentifier>
+        <alternateIdentifier>22cd931a-95ab-4b68-be6c-e0eff9365eae</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=database_coleoptera</alternateIdentifier>
+    <title>Database_Coleoptera_Madagascar Biodiversity Center PBZT</title>
+    <creator>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center, Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone><electronicMailAddress>ravelomanana.njaka@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Manoa</givenName>          <surName>Ramamonjisoa</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center, Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Parataxonomist</positionName>    <address>
+<administrativeArea>Antananarivo</administrativeArea><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>ramamonjisoamanoa@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Brian</givenName>          <surName>Fisher</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Curator</positionName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>bfisher@calacademy.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center, Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone><electronicMailAddress>ravelomanana.njaka@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+<organizationName>CNRE</organizationName><positionName>Researcher</positionName>    <address>
+<administrativeArea>Antananarivo</administrativeArea><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center, Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone><electronicMailAddress>ravelomanana.njaka@gmail.com</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+<organizationName>CNRE</organizationName><positionName>Researcher</positionName>    <address>
+<country>MADAGASCAR</country>    </address>
+<electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Brian</givenName>          <surName>Fisher</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Researcher</positionName>    <address>
+<country>MADAGASCAR</country>    </address>
+<electronicMailAddress>bfisher@calacademy.org</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Balsama</givenName>          <surName>Rajemison</surName>
+    </individualName>
+<organizationName>Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<country>MADAGASCAR</country>    </address>
+<electronicMailAddress>balsama38@hotmail.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Our data concerns coleptera diversity hold at Parc Botanique et Zoologique de Tsimbazaza, Madagascar. This is the first published record at this collection largely publish on GBIF portal. This data was published to make data available, accessible and useful for biodvidersity conservation.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Malagasy</keyword>
+              <keyword>diversity</keyword>
+              <keyword>Coleoptera</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>Insect</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Malagasy</keyword>
+              <keyword>diversity</keyword>
+              <keyword>Coleoptera</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>Insect</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Coleoptera diversity collected in Malagasy region</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>41.484</westBoundingCoordinate>
+                      <eastBoundingCoordinate>51.855</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11.351</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26.589</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+<organizationName>Madagascar Biodiversity Center, Parc Botanique et Zoologique de Tsimbazaza</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>PBZT BP 6257</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261341337033</phone><electronicMailAddress>ravelomanana.njaka@gmail.com</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0134-REG">
+          <title>African Insect Atlas</title>
+          <personnel>
+    <individualName>
+<givenName>Andrianjaka</givenName>          <surName>Ravelomanana</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Balsama</givenName>          <surName>Rajemison</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Brian Lee</givenName>          <surName>Fisher</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Manoa</givenName>          <surName>Ramamonjisoa</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Andry Jean Marc</givenName>          <surName>Rakotomanjaka</surName>
+    </individualName>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+    <role>PUBLISHER</role>
+          </personnel>
+          <abstract>
+              <para>Our objective is to unleash the potential of insect in conservation and sustainability research. Different activities were undertaken to achieve this goal as digitized insect collection belong to six African museum, produce species list of invasive ant...</para>
+          </abstract>
+          <funding>
+              <para>This project is funded by European Union through BID project and GBIF.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Six African museums toke part to this project: Madagascar, Mozambique, Botswana, South Africa, Zimbabwe and Kenya.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>Ravelomanana A, Ramamonjisoa M, Fisher B, Ranaivo J (2018). Database_Coleoptera_Madagascar Biodiversity Center PBZT. Version 1.229. Madagascar Biodiversity Center, Parc Botanique et Zoologique des Tsimbazaza. Occurrence dataset https://doi.org/10.15468/cslyxs accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

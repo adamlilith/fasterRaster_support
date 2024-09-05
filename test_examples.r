@@ -14,7 +14,7 @@ drive_ <- 'C:/Ecology/'
 
 # Start checking from this file (assume they are listed in alphabetical order by file name)
 # startFromFile_ <- NULL # start from 1st
-startFromFile_ <- 'ex_simplify_smooth_clean_GVector.r'
+startFromFile_ <- 'ex_subst.r'
 
 library(data.table)
 library(sf)
@@ -23,6 +23,7 @@ library(terra)
 if (any(search() == 'fasterRaster')) detach('fasterRaster')
 
 fr <- paste0(drive_, '/R/fasterRaster')
+devtools::document(fr)
 devtools::load_all(fr)
 .backdoor()
 

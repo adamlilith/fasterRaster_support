@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d06771c1-2276-49b8-81ba-f7be0887d0bd"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/r9z7u0</alternateIdentifier>
+        <alternateIdentifier>d06771c1-2276-49b8-81ba-f7be0887d0bd</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=bryotan</alternateIdentifier>
+        <alternateIdentifier>e6751193-fafa-4aae-a0c2-f2f1a93172ca</alternateIdentifier>
+    <title>Bryophyte specimens at TAN Herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Lot AB 374 E Ampitatafika</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>102</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Lot AB 374 E Ampitatafika</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>102</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Ranaivo</givenName>          <surName>Jaona</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>B.P</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Lala Roger</givenName>          <surName>Andriamiarisoa</surName>
+    </individualName>
+<organizationName>MBG Madagascar</organizationName><positionName>Botanist</positionName>    <address>
+<deliveryPoint>VP 31 Anjohy</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261331180914</phone><electronicMailAddress>lala_roger@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Catherine</givenName>          <surName>Reeb</surName>
+    </individualName>
+<organizationName>Institut Systematique Evolution Biodiversite, Sorbonne Universite/ MNHN</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>43 Rue Buffon MNHN, BP 39</deliveryPoint><city>Paris</city><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>catherine.reeb@mnhn.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Roger Lala</givenName>          <surName>Andriamiarisoa</surName>
+    </individualName>
+<organizationName>MBG Madagascar</organizationName><positionName>Botanist</positionName>    <address>
+<deliveryPoint>Anjohy</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>roger.andriamiarisoa@mobot-mg.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Catherine</givenName>          <surName>Reeb</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Botanist</positionName>    <address>
+<city>Paris</city><country>FRANCE</country>    </address>
+<electronicMailAddress>catherine.reeb@mnhn.fr</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Lot AB 374 E Ampitatafika</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>102</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-25
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>The BRYOTAN collection is part of a bigger collection held by TAN Herbarium at the Flora Department of the Botanical and Zoological Garden of Tsimbazaza (PBZT). This Herbarium, as the national reference of flora specimens conserved plant specimens issued from diverse national and/or international projects since 1897. The digitization of this big collection was initiated during SEP-CEPDEC 1. Digitizing the Bryophytes collection was not part of this project. We seized the opportunity of the BID-AF2017-0174-NAC project  kindly funded by the European Union through the BID-GBIF program to arrange, to identify, to digitize and to publish  our Bryophyta collection data on GBIF portal , to making them universally and freely available . Indeed, Bryophyta were proven to be good indicators of ecosystem health but in Madagascar this plant group is so poorly known.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>biodiversity</keyword>
+              <keyword>Mosses</keyword>
+              <keyword>Hornworts</keyword>
+              <keyword>Madagascar</keyword>
+              <keyword>Liverworts</keyword>
+              <keyword>occurrence</keyword>
+              <keyword>Bryophytes</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Madagascar</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>42</westBoundingCoordinate>
+                      <eastBoundingCoordinate>51</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Bryophytes of Madagascar specimens at the TAN Herbarium</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Bryophyta</taxonRankValue>
+                          <commonName>Mosses</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Marchantiophyta</taxonRankValue>
+                          <commonName>Liverworts</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Anthocerophyta</taxonRankValue>
+                          <commonName>Hornworts</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mosses, hornworts and liverworts of Malagasy specimens at TAN Herbarium</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Bryum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Marchantia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Anthoceros</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Lot AB 374 E Ampitatafika</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>102</postalCode><country>MADAGASCAR</country>    </address>
+<electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Arranging, Identifying, Digitizing, Georeferencing, Cleaning data, Publishing</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Digitizing of all the Bryophytes specimens held by TAN Herbarium</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All specimens</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="BID-AF2017-0174-NAC">
+          <title>BRYOTAN</title>
+          <personnel>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>letsara</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Roger Lala</givenName>          <surName>Andriamiarisoa</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Catherine</givenName>          <surName>Reeb</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para>The BRYOTAN project aims to answer to the lack of biodiversity data for bryophytes with focus on mosses in Madagascar. These tiny plants, mostly unknown by the public have crucial ecological functions in humid forest (water storage with slow release) and in open, dry ecosystems (first colonizers of naked soils or rocks, humus initiators). Since the end of the nineteen century more than 3000 dry mosses specimen are deposited in the herbarium of Parc Biologique Zoologique de Tsimbazaza, Antananarivo (TAN) and remain mostly unexploited. 
+BRYOTAN project aims to build a database on Malagasy mosses (751 species reported) and to make taxonomic, geographical and temporal specimen data available. First, data from herbarium labels will be gathered and adapted to computerization, including new geolocalization. An identification and training workshop will be organized in Antananarivo, welcoming international specialists and local botanists. This enhance efficient taxonomic data production from herbarium specimen, and training of Malagasy bryologists for future. 
+A website of “Malagasy Bryophytes” will be created. Data will be shared through GBIF portal, more than 3000 entries estimated. Data mobilization will be completed by images acquisition. 
+The project involves three Malagasy partners, with strong skills in herbarium management, computerization, web development and bryology (PBZT, MBG, Mahajanga University).French partner, MNHN is involved for bryophytes systematics. BRYOTAN project will share high quality data to complete or confirm Malagasy bryophytes check-list, to elaborate plan for taking in account bryophytes in conservation and to aware the populations and institutions in charge of biodiversity management about this unknown diversity.</para>
+          </abstract>
+          <funding>
+              <para>The project is co-funded by the European Union, the PBZT, MNHN and MBG</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Bryophytes of Madagascar</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The project aim to arrange, identify and digitize the existing Bryophytes specimens at TAN Herbarium. A high quality data will be shared through GBIF portal, more than 3000 entries are estimated by using the MadBif IPT.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:29Z</dateStamp>
+      <citation>letsara R, Jaona R, Andriamiarisoa L R, Reeb C (2019). Bryophyte specimens at TAN Herbarium. Version 1.14. Parc Botanique et Zoologique de Tsimbazaza (P.B.Z.T.). Occurrence dataset https://doi.org/10.15468/r9z7u0 accessed via GBIF.org on 2023-01-08.</citation>
+              <formationPeriod>1900-current</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

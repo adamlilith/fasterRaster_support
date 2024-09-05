@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="65174786-b679-46f1-b5a4-34f466e9241a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/oeytkl</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=sapotaceae_cnarp</alternateIdentifier>
+    <title>Database about reference specimens for medicinal plants, in the Sapotaceae family, owned by CNARP</title>
+    <creator>
+    <individualName>
+<givenName>Roland</givenName>          <surName>RAKOTONDRAJAONA</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Po Box 1739 Antananarivo</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 33 02 772</phone><electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marrino</givenName>          <surName>RAKOTOARISOA</surName>
+    </individualName>
+<organizationName>CNARP</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Ambodivoanjo, Rue Rahajarizafy RP</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242801</phone><electronicMailAddress>rino2r@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Po Box 1739 Antananarivo</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>033 02 772 79</phone><electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Herizo</givenName>          <surName>RANDRIAMBANONA</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>MadBIF node manager</positionName>    <address>
+<deliveryPoint>Po Box 1739 Antananarivo</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 34 60 384 86</phone><electronicMailAddress>zombanona@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+<organizationName>CNARP</organizationName>    <address>
+<deliveryPoint>Ambodivoanjo, Rue Rahajarizafy</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea>    </address>
+<phone>+261 20 22 428 01</phone><electronicMailAddress>stephanandrasana@yahoo.fr</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Herizo</givenName>          <surName>RANDRIAMBANONA</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName>    <address>
+<deliveryPoint>Po Box 1739 Antananarivo</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261346038486</phone><electronicMailAddress>zombanona@yahoo.fr</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-28
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>This database was extracted from the four collections of reference specimens on medicinal plants deposited at the CNARP herbarium: http://ipt.madbif.mg/resource?r&amp;#61;medicinal_plants_orstom_cnarp&amp;amp;v&amp;#61;1.0, http://ipt.madbif.mg/resource?r&amp;#61;medecinal_plants_cnarp&amp;amp;v&amp;#61;1.0, http://ipt.madbif.mg/resource?r&amp;#61;medecinal_plants_nci_cnarp&amp;amp;v&amp;#61;1.0 and http://ipt.madbif.mg/resource?r&amp;#61;medecinal_plants_icbg_cnarp&amp;amp;v&amp;#61;1.1</para>
+    </abstract>
+        <keywordSet>
+              <keyword>biodiversity</keyword>
+              <keyword>medicinal plant</keyword>
+              <keyword>Sapotaceae</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>This specimens reported in this database were collected troughout the Malagasy territory</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>43.1</westBoundingCoordinate>
+                      <eastBoundingCoordinate>50.54</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-12.1</northBoundingCoordinate>
+                      <southBoundingCoordinate>-25.6</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The database is mainly about the medicinal plants of the Sapotaceae family, but not restricted to that.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plant</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>Vascular plant</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapotaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Stephan</givenName>          <surName>RAKOTONANDRASANA</surName>
+    </individualName>
+<organizationName>CNARP</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Ambodivoanjo, Rue Rahajarizafy RP</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 20 22 428 01</phone><electronicMailAddress>stephanandrasana@yahoo.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Roland</givenName>          <surName>RAKOTONDRAJAONA</surName>
+    </individualName>
+<organizationName>CNARP</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Ambodivoanjo, Rue Rahajarizafy RP</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261 20 22 428 01</phone><electronicMailAddress>rolandrakotondrajaona@yahoo.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marrino</givenName>          <surName>RAKOTOARISOA</surName>
+    </individualName>
+<organizationName>CNARP</organizationName><positionName>rESEARCHER</positionName>    <address>
+<deliveryPoint>Ambodivoanjo, Rue Rahajarizafy RP</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261202242801</phone><electronicMailAddress>rino2r@hotmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Nomenclatural check,
+Scientific authorship check (Standard use)
+Typing check
+Data mapping
+Data publishing</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The digitization program concerns all specimens of the targeted families owned by CNARP. Those specimens were collected from the Malagasy territory</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All of the Sapotaceae familiy specimens from the herbarium were digitized. Those specimens were collected from the Malagasy territory</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Before publishing, the nomenclature was checked and updated with Catalogue of life, Tropicos database and/or IPNI, we used the OpenRefine tool as well to clean the data</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BID-AF2015-0066-REG">
+          <title>Mobilization of reference specimens data on the Sapotaceae family owned by CNARP for conservation, sustainable use and decision making in Madagascar</title>
+          <personnel>
+    <individualName>
+<givenName>Stephan</givenName>          <surName>RAKOTONANDRASANA</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>RANAIVO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Herizo</givenName>          <surName>RANDRIAMBANONA</surName>
+    </individualName>
+    <role>METADATA_AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Roland</givenName>          <surName>RAKOTONDRAJAONA</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para>The digitization of the reference specimens of medicinal plants conserved at the CNARP herbarium was initiated during SEP-CEPDEC 1, the BID program allowed to continuing the digitization of some threatened and invasive species. (https://www.gbif.org/project/82750/capacity-building-and-biodiversity-data-mobilization-for-conservation-and-policy-in-africa).
+The digitization in itself was carried out by CNARP team and data cleaning, further georeferencing, formating and publishing were assured by MadBIF team</para>
+          </abstract>
+          <funding>
+              <para>The project is funded by the European Union through the BID program coordinated by GBIF.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Invasives alien species and endangered species were the two firsts of the 8 priority areas defined by the ACM in its WP 2015-2016. In this regard, the consortium retained 8 families of each category for the project. the Sapotaceae family was one of the endangered priority family</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Digitization of the information from  the label of the specimen</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:27Z</dateStamp>
+      <citation>RAKOTONDRAJAONA R, RAKOTOARISOA M, Ranaivo J, RANDRIAMBANONA H (2019). Database about reference specimens for medicinal plants, in the Sapotaceae family, owned by CNARP. CNARP. Occurrence dataset https://doi.org/10.15468/oeytkl accessed via GBIF.org on 2023-01-08.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>CNARP</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>ICBG</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>NCI</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>ORSTOM</collectionName>
+              </collection>
+              <formationPeriod>1962-current</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

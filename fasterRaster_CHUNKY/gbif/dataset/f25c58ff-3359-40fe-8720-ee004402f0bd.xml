@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f25c58ff-3359-40fe-8720-ee004402f0bd"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/23eka2</alternateIdentifier>
+        <alternateIdentifier>4D77FFF4FFC52C23FFE202672019EF20</alternateIdentifier>
+    <title>A revision of Homalium sect. Nisa (Salicaceae) endemic to Madagascar</title>
+    <creator>
+    <individualName>
+<givenName>Anna C.</givenName>          <surName>Wassel</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Wendy L.</givenName>          <surName>Applequist</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>carolina</surName>
+    </individualName>
+<organizationName>Plazi</organizationName>    </metadataProvider>
+    <associatedParty>
+<organizationName>Plazi</organizationName>    <address>
+<city>Bern</city><country>SWITZERLAND</country>    </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-24
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wassel, Anna C., Applequist, Wendy L. (2020): A revision of Homalium sect. Nisa (Salicaceae) endemic to Madagascar. Candollea 75 (1): 1-23, DOI: 10.15553/c2020v751a1</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://tb.plazi.org/GgServer/summary/4D77FFF4FFC52C23FFE202672019EF20</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Guido</givenName>          <surName>Sautter</surName>
+    </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:26Z</dateStamp>
+      <citation>Wassel A C, Applequist W L, carolina (2020). A revision of Homalium sect. Nisa (Salicaceae) endemic to Madagascar. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/23eka2 accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cef35771-ff95-4a41-9af6-196dea899a64"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.11646/zootaxa.4207.1.1</alternateIdentifier>
+        <alternateIdentifier>cef35771-ff95-4a41-9af6-196dea899a64</alternateIdentifier>
+        <alternateIdentifier>10.15468/ian1ca</alternateIdentifier>
+        <alternateIdentifier>F2875582-31E2-496F-AEEF-1D657DD86C33</alternateIdentifier>
+        <alternateIdentifier>A776C578FFD1616AFF95625CFF8AFFF5</alternateIdentifier>
+    <title>Review of the Madagascan Orphninae (Coleoptera: Scarabaeidae) with a revision of the genus Triodontus Westwood</title>
+    <creator>
+    <individualName>
+<givenName>Andrey V.</givenName>          <surName>Frolov</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Olivier</givenName>          <surName>Montreuil</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Lilia A.</givenName>          <surName>Akhmetova</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>plazi</surName>
+    </individualName>
+<organizationName>Plazi</organizationName>    </metadataProvider>
+    <associatedParty>
+<organizationName>Magnolia Press</organizationName>    <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>    </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>Plazi</organizationName>    <address>
+<city>Bern</city><country>SWITZERLAND</country>    </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains the digitized treatments in Plazi based on the original journal article Frolov, Andrey V., Montreuil, Olivier, Akhmetova, Lilia A. (2016): Review of the Madagascan Orphninae (Coleoptera: Scarabaeidae) with a revision of the genus Triodontus Westwood. Zootaxa 4207 (1): 1-93, DOI: http://doi.org/10.11646/zootaxa.4207.1.1</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://tb.plazi.org/GgServer/summary/A776C578FFD1616AFF95625CFF8AFFF5</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Guido</givenName>          <surName>Sautter</surName>
+    </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:25Z</dateStamp>
+      <citation>Frolov A V, Montreuil O, Akhmetova L A, plazi (2016). Review of the Madagascan Orphninae (Coleoptera: Scarabaeidae) with a revision of the genus Triodontus Westwood. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4207.1.1 accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="59825263-9f89-43a9-8f22-c22a6a53b8fc"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/8cxijb</alternateIdentifier>
+        <alternateIdentifier>59825263-9f89-43a9-8f22-c22a6a53b8fc</alternateIdentifier>
+        <alternateIdentifier>https://ipt.lsa.umich.edu/resource?r=ummz_fish</alternateIdentifier>
+    <title>University of Michigan Museum of Zoology, Division of Fishes</title>
+    <creator>
+    <individualName>
+          <surName>UMMZ Fish Division Data Group</surName>
+    </individualName>
+<organizationName>UM MUSEUM OF ZOOLOGY</organizationName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>ANN ARBOR</city><administrativeArea>Michigan</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>ummz-fish-data@umich.edu</electronicMailAddress><onlineUrl>https://lsa.umich.edu/ummz/fishes</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<organizationName>UM College of LSA</organizationName><positionName>LSA IT Admins</positionName><electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2022-12-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The collections of the Fish Division comprise 193,555 cataloged lots, with over 3.4 million total specimens.  406 fish families, 2,901 genera and approximately 8,000 nominal species are represented in the collections.  In addition to formalin-fixed, alcohol-preserved specimens, the collections contain 10,176 dry skeletons and 10,458 cleared and stained glycerin preparations.  Type material representing more than 1,500 nominal species includes 626 primary type specimens and 4,385 lots of paratypes.   Geographic strengths of the collections include North American fresh and marine waters, Southeast Asia, South America, and Mexico, but all major aquatic habitats are represented.  Digital images of field notes (&amp;gt; 5,000 records) and fish specimens (&amp;gt; 6,000 images), as well as catalog records and other collection documents, are available to researchers upon request.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>UMMZ Fish Division Data Group</surName>
+    </individualName>
+<organizationName>UM MUSEUM OF ZOOLOGY</organizationName><positionName>Group</positionName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>ANN ARBOR</city><administrativeArea>Michigan</administrativeArea><postalCode>48108</postalCode><country>UNITED_STATES</country>    </address>
+<phone>7347630743</phone><electronicMailAddress>ummz-fish-data@umich.edu</electronicMailAddress><onlineUrl>https://lsa.umich.edu/ummz/fishes</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:24Z</dateStamp>
+      <citation>UMMZ Fish Division Data Group, LSA IT A (2022). University of Michigan Museum of Zoology, Division of Fishes. Version 1.53. University of Michigan Museum of Zoology. Occurrence dataset https://doi.org/10.15468/8cxijb accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

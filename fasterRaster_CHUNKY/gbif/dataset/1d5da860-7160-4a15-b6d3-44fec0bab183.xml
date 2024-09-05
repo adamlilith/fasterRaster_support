@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1d5da860-7160-4a15-b6d3-44fec0bab183"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.3897/bdj.4.e8032</alternateIdentifier>
+    <title>Taxonomic revision of Stigmatomma Roger (Hymenoptera: Formicidae) in the Malagasy region</title>
+    <creator>
+    <individualName>
+<givenName>Flavia</givenName>          <surName>Esteves</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Dr</positionName>    <address>
+<city>San Francisco</city><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>flaviaesteves@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Flavia</givenName>          <surName>Esteves</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Dr</positionName>    <address>
+<city>San Francisco</city><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>flaviaesteves@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2016-06-10
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>In this study we present the first taxonomic revision of the ant genus Stigmatomma in the Malagasy biogeographic region, re­describe the previously known S. besucheti Baroni-Urbani, and describe seven new species to science (S. bolabola sp. n., S. irayhady sp. n., S. janovitsika sp. n., S. liebe sp. n., S. roahady sp. n., S. sakalava sp. n., and S. tsyhady sp. n.). The revision is based on the worker caste, but we provide brief descriptions of gynes and males for some species. Species descriptions, diagnosis, character discussion, identiﬁcation key, and glossary are illustrated with 360 high-quality montage and SEM images. The distribution of Stigmatomma species in Madagascar are mapped and discussed within the context of the island’s biomes and ecoregions. We also discuss how some morphometric variables describe the diﬀerences among the species in the bioregion. Open science is supported by providing access to R scripts, raw measurement data, and all specimen data used. All specimens used in this study were given unique identifies, and holotypes were imaged. Specimens and images are made accessible on AntWeb.org.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Flavia</givenName>          <surName>Esteves</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Dr</positionName>    <address>
+<city>San Francisco</city><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>flaviaesteves@gmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:27Z</dateStamp>
+      <citation identifier="Citation Identifier">Esteves F (2016). Taxonomic revision of Stigmatomma Roger (Hymenoptera: Formicidae) in the Malagasy region. Biodiversity Data Journal. Checklist dataset https://doi.org/10.3897/bdj.4.e8032 accessed via GBIF.org on 2023-01-08.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

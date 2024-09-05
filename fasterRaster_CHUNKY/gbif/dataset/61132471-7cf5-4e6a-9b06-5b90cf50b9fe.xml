@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="61132471-7cf5-4e6a-9b06-5b90cf50b9fe"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/tqr4ip</alternateIdentifier>
+        <alternateIdentifier>http://ipt.madbif.mg/resource?r=tan_verbenaceae</alternateIdentifier>
+    <title>Specimen references on the Verbenaceae family held by the TAN Herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>Letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320248766</phone><electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>CNRE Fiadanana</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261330277279</phone><electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>Letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320248766</phone><electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>Letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320248766</phone><electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Solo Hery Jean Victor</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Head of Flora Department</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320776590</phone><electronicMailAddress>srapanarivo@yahoo.fr</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-15
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>The Tsimbazaza Park was created in August 29th, 1925 in the city of Antananarivo, capital of Madagascar. Initially it was named the &amp;#34;Botanical Garden of Tananarive&amp;#34; consisting of thematic areas. In 1935, the construction of animal cages and breeding in captivity began. His name has changed &amp;#34;Parc Botanique et Zoologique de Tananarive&amp;#34;. In 1947, it was the only &amp;#34;National Research Center&amp;#34; in Madagascar and worked in collaboration with the Overseas Scientific and Technical Research Office (ORSTOM). In 1993 after having its status, it took the name &amp;#34;Parc Botanique et Zoologique de Tsimbazaza (PBZT)&amp;#34; until today and under the supervision of the Ministry of Higher Education and Scientific Research. It is made up of four departments: Fauna, Flora, Environmental Conservation Education and finally Administrative and Financial.</para>
+        <para>The TAN Herbarium belongs to the Flora Department, particularly at the Herbarium Division.
+It is one of the three national reference Herbaria existing in Madagascar.  
+The Herbarium Room was created around 1950. The first extension, funded by the Winslow Foundation with the help of the Missouri Botanical Garden, was made in 2004. Currently, it is the largest herbarium of the western Indian Ocean.
+The TAN herbarium consists of three rooms and two storage rooms. It contains Angiosperms, Gymnosperms, Ferns, Mosses and some species of Lichen. The oldest known collection is dated from 1831. The total number of herbarium specimens to be conserved is estimated to 258,000 of which 200,000 are mounted with 177,000 classified in the cabinets and 23,000 unclassified and the remaining 50,000 are unmounted. Currently 850 type specimens were recorded. 
+The Herbarium TAN is one of the largest places that conserves the biodiversity of Madagascar. It is a laboratory where researchers and students draw information for their work. Each year, there are at least twenty students doing their internships.</para>
+        <para>This part will concern the Verbenacea family sensus lato (e.g. with the species which were formerly included to it but now migrated to the Lamiaceae).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>biodiversity</keyword>
+              <keyword>Verbenaceae</keyword>
+              <keyword>occurrence</keyword>
+              <keyword>invasive species</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The specimens were collected mainly from Madagascar, with some few records from the surrounding islands and some African countries</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>42</westBoundingCoordinate>
+                      <eastBoundingCoordinate>51</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>This data concerns all existing Genus in the Sapotaceae family in Madagascar.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Verbenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName>    <address>
+<deliveryPoint>CNRE Fiadanana</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261330277279</phone><electronicMailAddress>ranaivo_jaona@yahoo.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Herizo</givenName>          <surName>RANDRIAMBANONA</surName>
+    </individualName>
+<organizationName>MadBIF</organizationName><positionName>Node manager</positionName>    <address>
+<deliveryPoint>Po Box 1739 Antananarivo</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261346038486</phone><electronicMailAddress>zombanona@yahoo.fr</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>Letsara</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320248766</phone><electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Solo Hery Jean Victor</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+<organizationName>PBZT</organizationName><positionName>Head of the Flora Department</positionName>    <address>
+<deliveryPoint>Rue Fernand Kasanga, Tsimbazaza</deliveryPoint><city>Antananarivo</city><administrativeArea>Antananarivo</administrativeArea><postalCode>101</postalCode><country>MADAGASCAR</country>    </address>
+<phone>+261320776590</phone><electronicMailAddress>letsararo@yahoo.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The digitization was done by the PBZT staff who performed as well nomenclatural checking using APNI. Further quality checking was carried out by MadBIF staff who formated also the data to DwC. The scientific names were submitted to TNRS application and those which were not fully validated were checked with Catalogue of life, Tropicos and Plantlist. When any of these databases do not validate the given lowermost taxonomic rank scientific name, we adopt the rank of the lowermost validated name as taxonRank, however, we keep the given identification name.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This digitization concerns the Verbenaceae family sens lato (e.g. with the species formerely included to but now migrated to Lamiaceae) specimens mainly collected in Madagascar and conserved at the TAN Herbarium.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All the specimens are systematically recorded</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="BID-AF2015-0066-REG">
+          <title>Mobilization of reference specimens data on the Verbenaceae family at TAN herbarium</title>
+          <personnel>
+    <individualName>
+<givenName>Rokiman</givenName>          <surName>Letsara</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Solo Hery Jean Victor</givenName>          <surName>Rapanarivo</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Franck</givenName>          <surName>Rakotonasolo</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jaona</givenName>          <surName>Ranaivo</surName>
+    </individualName>
+    <role>METADATA_AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Herizo</givenName>          <surName>Randriambanona</surName>
+    </individualName>
+    <role>USER</role>
+          </personnel>
+          <abstract>
+              <para>The digitizing of the plant reference specimens of TAN Herbarium was initiated during SEP-CEPDEC 1, the BID program allowed to continue the digitization of some threatened and invasive species (https://www.gbif.org/project/82750/capacity-building-and-biodiversity-data-mobilization-for-conservation-and-policy-in-africa.)</para>
+          </abstract>
+          <funding>
+              <para>The digitization of this family has been possible thanks to the European Union funding through the BID program coordinated by GBIF.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Invasive alien species and endangered species were the two first of the eight priority areas defined by the ACM in each WP 2015 - 2016. In this regards the consortium retained eight families of each category for the project. 
+The Verbenaceae family was choosen by the consortium as one of the priority family of the invasive species.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Invasive alien species and endangered species were the two first of the eight priority areas defined by the ACM in each WP 2015 - 2016. In this regards the consortium retained eight families of each category for the project. 
+The Verbenaceae family was choosen by the consortium as one of the priority family of the invasive species. The species formerely belonging to the Verbenaceae family but now migrated to Lamiaceae is included in the database.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-08T05:51:28Z</dateStamp>
+      <citation>Letsara R, Ranaivo J (2019). Specimen references on the Verbenaceae family held by the TAN Herbarium. Parc Botanique et Zoologique de Tsimbazaza (P.B.Z.T.). Occurrence dataset https://doi.org/10.15468/tqr4ip accessed via GBIF.org on 2023-01-08.</citation>
+              <resourceLogoUrl>http://ipt.madbif.mg/logo.do?r=tan_rubiaceae</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>TRACHEO_TAN</collectionIdentifier>
+                <collectionName>Vascular plants at TAN</collectionName>
+              </collection>
+              <formationPeriod>1831-current</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
