@@ -9,12 +9,12 @@
 #########
 
 rm(list=ls())
-drive_ <- 'C:/Ecology/'
-# drive_ <- 'E:/Adam/'
+# drive_ <- 'C:/Ecology/'
+drive_ <- 'E:/Adam/'
 
 # Start checking from this file (assume they are listed in alphabetical order by file name)
 # startFromFile_ <- NULL # start from 1st
-startFromFile_ <- 'ex_subst.r'
+startFromFile_ <- 'ex_zonal.r'
 
 library(data.table)
 library(sf)

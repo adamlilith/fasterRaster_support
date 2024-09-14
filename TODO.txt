@@ -1,0 +1,4 @@
+# TO DO
+* Check project()
+* DOUBLE CHECK project() with x = GRASTER and y = GRASTER vs terra
+print('HOW SAVE/LOAD CATEGORICAL RASTER"S CATEGORIES FROM XML?')
